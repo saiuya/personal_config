@@ -1,0 +1,210 @@
+!SESSION 2024-11-07 18:12:48.181 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.13
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_JP
+Framework arguments:  --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-396bbb9dcfa08e3149c4c46f2bcb2209.sock
+Command-line arguments:  -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/37e4ec71a7b49001159d6c9b3379ce8d/redhat.java/jdt_ws --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-396bbb9dcfa08e3149c4c46f2bcb2209.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:53.360
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:54.517
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:56.247
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:56.259
+!MESSAGE Initializing Java Language Server 1.41.0.202410310221
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:56.263
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:57.788
+!MESSAGE ProjectRegistryRefreshJob finished 1524ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:57.826
+!MESSAGE Started org.eclipse.buildship.core 37ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.732
+!MESSAGE Default VM Install changed from  null to 1730970779728-/Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/jre/17.0.13-macosx-aarch64
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.762
+!MESSAGE Setting /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home as 'JavaSE-1.8' environment (id:net.temurin.8.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.769
+!MESSAGE Setting /opt/homebrew/Cellar/openjdk@21/21.0.5/libexec/openjdk.jdk/Contents/Home as 'JavaSE-21' environment (id:1730970779765)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.772
+!MESSAGE Setting runtime JavaSE-23-/opt/homebrew/Cellar/openjdk/23/libexec/openjdk.jdk/Contents/Home as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.776
+!MESSAGE Default VM Install changed from  1730970779728-/Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/jre/17.0.13-macosx-aarch64 to 1730970779769-/opt/homebrew/Cellar/openjdk/23/libexec/openjdk.jdk/Contents/Home
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.779
+!MESSAGE Setting /opt/homebrew/Cellar/openjdk/23/libexec/openjdk.jdk/Contents/Home as 'JavaSE-23' environment (id:1730970779769)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.782
+!MESSAGE Setting /Library/Java/JavaVirtualMachines/microsoft-11.jdk/Contents/Home as 'JavaSE-11' environment (id:com.microsoft.11.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.785
+!MESSAGE Setting /Users/yyx/Library/Java/JavaVirtualMachines/jbr-17.0.12/Contents/Home as 'JavaSE-17' environment (id:com.jetbrains.jbr.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.787
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.813
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.813
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.813
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.813
+!MESSAGE Non-Static Commands: [java.intellicode.enable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.813
+!MESSAGE Static Commands: [sts.java.addClasspathListener, sts.java.removeClasspathListener]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.813
+!MESSAGE Non-Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.813
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.814
+!MESSAGE Non-Static Commands: [sts.java.javadoc]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.814
+!MESSAGE Static Commands: [sts.java.type]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.814
+!MESSAGE Non-Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.815
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.816
+!MESSAGE Non-Static Commands: [sts.java.javadocHoverLink]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.817
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.817
+!MESSAGE Non-Static Commands: [sts.java.location]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.818
+!MESSAGE Static Commands: [sts.java.search.packages, sts.java.search.types]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.819
+!MESSAGE Non-Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.819
+!MESSAGE Static Commands: [sts.java.hierarchy.supertypes, sts.java.hierarchy.subtypes]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.819
+!MESSAGE Non-Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.819
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.819
+!MESSAGE Non-Static Commands: [sts.java.code.completions]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.819
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.819
+!MESSAGE Non-Static Commands: [sts.project.gav]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.819
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.819
+!MESSAGE Non-Static Commands: [java.gradle.delegateTest]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.819
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.820
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.820
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.821
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.checkImportStatus, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.821
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.821
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.822
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.822
+!MESSAGE Non-Static Commands: [java.maven.initializeSearcher, java.maven.searchArtifact, java.maven.addDependency, java.maven.controlContext]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.835
+!MESSAGE RepositoryRegistryUpdateJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.847
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.896
+!MESSAGE Importing Gradle project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:59.897
+!MESSAGE No previous Gradle project at /Users/yyx/Downloads/KotlinSwift, it must be synchronized
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-11-07 18:14:57.466
+!MESSAGE Cannot download Gradle sha256 checksum: https://services.gradle.org/distributions-snapshots/gradle-8.10-20240727004415+0000-wrapper.jar.sha256
+!STACK 0
+java.io.FileNotFoundException: https://downloads.gradle.org/distributions-snapshots/gradle-8.10-20240727004415+0000-wrapper.jar.sha256
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+	at org.eclipse.jdt.ls.internal.gradle.checksums.DownloadChecksumJob.run(DownloadChecksumJob.java:77)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-11-07 18:14:58.953
+!MESSAGE Cannot download Gradle sha256 checksum: https://services.gradle.org/distributions-snapshots/gradle-8.9-20240707014048+0000-wrapper.jar.sha256
+!STACK 0
+java.io.FileNotFoundException: https://downloads.gradle.org/distributions-snapshots/gradle-8.9-20240707014048+0000-wrapper.jar.sha256
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+	at org.eclipse.jdt.ls.internal.gradle.checksums.DownloadChecksumJob.run(DownloadChecksumJob.java:77)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:15:00.891
+!MESSAGE Workspace initialized in 121056ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:15:00.895
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:15:05.567
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:15:05.567
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:15:05.569
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-08 20:25:00.305
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-08 20:25:00.342
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-08 20:25:00.466
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-08 20:25:00.486
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

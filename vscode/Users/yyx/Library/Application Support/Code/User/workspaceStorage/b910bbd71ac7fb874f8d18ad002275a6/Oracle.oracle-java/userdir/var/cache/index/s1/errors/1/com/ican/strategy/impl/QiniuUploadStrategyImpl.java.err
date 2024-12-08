@@ -1,0 +1,6 @@
+ERROR:38:シンボルを見つけられません\n  シンボル\d   メソッド getAccessKey()\n  場所\d タイプcom.ican.config.properties.QiniuPropertiesの変数 qiniuProperties
+ERROR:38:シンボルを見つけられません\n  シンボル\d   メソッド getSecretKey()\n  場所\d タイプcom.ican.config.properties.QiniuPropertiesの変数 qiniuProperties
+ERROR:42:シンボルを見つけられません\n  シンボル\d   メソッド getBucketName()\n  場所\d タイプcom.ican.config.properties.QiniuPropertiesの変数 qiniuProperties
+ERROR:47:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.strategy.impl.QiniuUploadStrategyImpl
+ERROR:57:シンボルを見つけられません\n  シンボル\d   メソッド getUrl()\n  場所\d タイプcom.ican.config.properties.QiniuPropertiesの変数 qiniuProperties
+ERROR:64:シンボルを見つけられません\n  シンボル\d   メソッド getRegion()\n  場所\d タイプcom.ican.config.properties.QiniuPropertiesの変数 qiniuProperties

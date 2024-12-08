@@ -1,0 +1,98 @@
+ERROR:67:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getAvatar()\n    場所\d クラス com.ican.entity.User
+ERROR:67:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.User
+ERROR:75:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.vo.response.UserBackInfoResp
+ERROR:77:シンボルを見つけられません\n  シンボル\d   メソッド getAvatar()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:87:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getLoginType()\n    場所\d クラス com.ican.entity.User
+ERROR:87:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getEmail()\n    場所\d クラス com.ican.entity.User
+ERROR:87:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getIntro()\n    場所\d クラス com.ican.entity.User
+ERROR:86:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getWebSite()\n    場所\d クラス com.ican.entity.User
+ERROR:86:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getUsername()\n    場所\d クラス com.ican.entity.User
+ERROR:86:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getAvatar()\n    場所\d クラス com.ican.entity.User
+ERROR:86:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getNickname()\n    場所\d クラス com.ican.entity.User
+ERROR:88:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.User
+ERROR:93:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.vo.response.UserInfoResp
+ERROR:95:シンボルを見つけられません\n  シンボル\d   メソッド getAvatar()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:96:シンボルを見つけられません\n  シンボル\d   メソッド getNickname()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:97:シンボルを見つけられません\n  シンボル\d   メソッド getUsername()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:98:シンボルを見つけられません\n  シンボル\d   メソッド getEmail()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:99:シンボルを見つけられません\n  シンボル\d   メソッド getWebSite()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:100:シンボルを見つけられません\n  シンボル\d   メソッド getIntro()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:104:シンボルを見つけられません\n  シンボル\d   メソッド getLoginType()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:123:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)
+ERROR:133:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.User
+ERROR:134:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.UserRoleReqの変数 user
+ERROR:135:シンボルを見つけられません\n  シンボル\d   メソッド getNickname()\n  場所\d タイプcom.ican.model.vo.request.UserRoleReqの変数 user
+ERROR:139:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.UserRoleReqの変数 user
+ERROR:139:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getUserId()\n    場所\d クラス com.ican.entity.UserRole
+ERROR:141:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.UserRoleReqの変数 user
+ERROR:141:シンボルを見つけられません\n  シンボル\d   メソッド getRoleIdList()\n  場所\d タイプcom.ican.model.vo.request.UserRoleReqの変数 user
+ERROR:143:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.UserRoleReqの変数 user
+ERROR:149:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.User
+ERROR:150:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.DisableReqの変数 disable
+ERROR:151:シンボルを見つけられません\n  シンボル\d   メソッド getIsDisable()\n  場所\d タイプcom.ican.model.vo.request.DisableReqの変数 disable
+ERROR:154:シンボルを見つけられません\n  シンボル\d   メソッド getIsDisable()\n  場所\d タイプcom.ican.model.vo.request.DisableReqの変数 disable
+ERROR:156:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.DisableReqの変数 disable
+ERROR:158:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.DisableReqの変数 disable
+ERROR:161:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.DisableReqの変数 disable
+ERROR:174:シンボルを見つけられません\n  シンボル\d   メソッド getKeyword()\n  場所\d タイプcom.ican.model.vo.query.OnlineUserQueryの変数 onlineUserQuery
+ERROR:174:シンボルを見つけられません\n  シンボル\d   メソッド getNickname()\n  場所\d タイプcom.ican.model.vo.response.OnlineUserRespの変数 onlineUserResp
+ERROR:174:シンボルを見つけられません\n  シンボル\d   メソッド getKeyword()\n  場所\d タイプcom.ican.model.vo.query.OnlineUserQueryの変数 onlineUserQuery
+ERROR:175:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getLoginTime()\n    場所\d クラス com.ican.model.vo.response.OnlineUserResp
+ERROR:182:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)
+ERROR:193:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.User
+ERROR:195:シンボルを見つけられません\n  シンボル\d   メソッド getPassword()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:195:シンボルを見つけられません\n  シンボル\d   メソッド getOldPassword()\n  場所\d タイプcom.ican.model.vo.request.PasswordReqの変数 password
+ERROR:197:シンボルを見つけられません\n  シンボル\d   メソッド getNewPassword()\n  場所\d タイプcom.ican.model.vo.request.PasswordReqの変数 password
+ERROR:198:シンボルを見つけられません\n  シンボル\d   メソッド setPassword(java.lang.String)\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:204:シンボルを見つけられません\n  シンボル\d   メソッド getEmail()\n  場所\d タイプcom.ican.model.vo.request.EmailReqの変数 email
+ERROR:204:シンボルを見つけられません\n  シンボル\d   メソッド getCode()\n  場所\d タイプcom.ican.model.vo.request.EmailReqの変数 email
+ERROR:205:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.User
+ERROR:207:シンボルを見つけられません\n  シンボル\d   メソッド getEmail()\n  場所\d タイプcom.ican.model.vo.request.EmailReqの変数 email
+ERROR:215:シンボルを見つけられません\n  シンボル\d   メソッド getPath()\n  場所\d タイプcom.ican.enums.FilePathEnumの変数 AVATAR
+ERROR:217:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.User
+ERROR:227:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.User
+ERROR:229:シンボルを見つけられません\n  シンボル\d   メソッド getNickname()\n  場所\d タイプcom.ican.model.vo.request.UserInfoReqの変数 userInfo
+ERROR:230:シンボルを見つけられません\n  シンボル\d   メソッド getIntro()\n  場所\d タイプcom.ican.model.vo.request.UserInfoReqの変数 userInfo
+ERROR:231:シンボルを見つけられません\n  シンボル\d   メソッド getWebSite()\n  場所\d タイプcom.ican.model.vo.request.UserInfoReqの変数 userInfo
+ERROR:237:シンボルを見つけられません\n  シンボル\d   メソッド getUsername()\n  場所\d タイプcom.ican.model.vo.request.UserReqの変数 user
+ERROR:237:シンボルを見つけられません\n  シンボル\d   メソッド getCode()\n  場所\d タイプcom.ican.model.vo.request.UserReqの変数 user
+ERROR:239:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getUsername()\n    場所\d クラス com.ican.entity.User
+ERROR:240:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getUsername()\n    場所\d クラス com.ican.entity.User
+ERROR:240:シンボルを見つけられません\n  シンボル\d   メソッド getUsername()\n  場所\d タイプcom.ican.model.vo.request.UserReqの変数 user
+ERROR:244:シンボルを見つけられません\n  シンボル\d   メソッド getPassword()\n  場所\d タイプcom.ican.model.vo.request.UserReqの変数 user
+ERROR:244:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getPassword()\n    場所\d クラス com.ican.entity.User
+ERROR:245:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getUsername()\n    場所\d クラス com.ican.entity.User
+ERROR:245:シンボルを見つけられません\n  シンボル\d   メソッド getUsername()\n  場所\d タイプcom.ican.model.vo.request.UserReqの変数 user
+ERROR:270:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:273:シンボルを見つけられません\n  シンボル\d   メソッド getMenuName()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:274:シンボルを見つけられません\n  シンボル\d   メソッド setPath(java.lang.String)\n  場所\d タイプcom.ican.model.vo.response.RouterRespの変数 routeVO
+ERROR:275:シンボルを見つけられません\n  シンボル\d   メソッド setComponent(java.lang.String)\n  場所\d タイプcom.ican.model.vo.response.RouterRespの変数 routeVO
+ERROR:276:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.vo.response.MetaResp
+ERROR:277:シンボルを見つけられません\n  シンボル\d   メソッド getMenuName()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:278:シンボルを見つけられません\n  シンボル\d   メソッド getIcon()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:279:シンボルを見つけられません\n  シンボル\d   メソッド getIsHidden()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:281:シンボルを見つけられません\n  シンボル\d   メソッド getMenuType()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:282:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:284:シンボルを見つけられません\n  シンボル\d   メソッド setAlwaysShow(boolean)\n  場所\d タイプcom.ican.model.vo.response.RouterRespの変数 routeVO
+ERROR:285:シンボルを見つけられません\n  シンボル\d   メソッド setRedirect(java.lang.String)\n  場所\d タイプcom.ican.model.vo.response.RouterRespの変数 routeVO
+ERROR:287:シンボルを見つけられません\n  シンボル\d   メソッド setChildren(java.util.List<com.ican.model.vo.response.RouterResp>)\n  場所\d タイプcom.ican.model.vo.response.RouterRespの変数 routeVO
+ERROR:289:シンボルを見つけられません\n  シンボル\d   メソッド setMeta(<nulltype>)\n  場所\d タイプcom.ican.model.vo.response.RouterRespの変数 routeVO
+ERROR:292:シンボルを見つけられません\n  シンボル\d   メソッド getMenuName()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:293:シンボルを見つけられません\n  シンボル\d   メソッド getPath()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:294:シンボルを見つけられません\n  シンボル\d   メソッド getComponent()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:295:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.vo.response.MetaResp
+ERROR:296:シンボルを見つけられません\n  シンボル\d   メソッド getMenuName()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:297:シンボルを見つけられません\n  シンボル\d   メソッド getIcon()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:298:シンボルを見つけられません\n  シンボル\d   メソッド getIsHidden()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:301:シンボルを見つけられません\n  シンボル\d   メソッド setChildren(java.util.List<com.ican.model.vo.response.RouterResp>)\n  場所\d タイプcom.ican.model.vo.response.RouterRespの変数 routeVO
+ERROR:315:シンボルを見つけられません\n  シンボル\d   メソッド getPath()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:317:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:317:シンボルを見つけられません\n  シンボル\d   メソッド getMenuType()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:318:シンボルを見つけられません\n  シンボル\d   メソッド getPath()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:335:シンボルを見つけられません\n  シンボル\d   メソッド getComponent()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:336:シンボルを見つけられません\n  シンボル\d   メソッド getComponent()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:337:シンボルを見つけられません\n  シンボル\d   メソッド getComponent()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:350:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:350:シンボルを見つけられません\n  シンボル\d   メソッド getMenuType()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:360:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu
+ERROR:360:シンボルを見つけられません\n  シンボル\d   メソッド getMenuType()\n  場所\d タイプcom.ican.model.vo.response.UserMenuRespの変数 menu

@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/Users/yyx/Library/Application Support/Code/User/workspaceStorage/0648c2000bfa376d5045e8a69e650892/redhat.java/.0c996a6e065c88ffe3ca80f24b3122790f7e71e8-audit.json",
+    "files": [
+        {
+            "date": 1733504592847,
+            "name": "/Users/yyx/Library/Application Support/Code/User/workspaceStorage/0648c2000bfa376d5045e8a69e650892/redhat.java/client.log.2024-12-07",
+            "hash": "46f06cabb34bb712846d743a8d1c96ccb84cccd8e7136c3f3e6211a91c637461"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,98 @@
+{
+  message: "Use the JDK from '' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2024-12-07 02:08:57.725'
+}
+{
+  message: 'Starting Java server with: /Users/yyx/.vscode/extensions/redhat.java-1.37.0-darwin-arm64/jre/17.0.13-macosx-aarch64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/Users/yyx/.vscode/extensions/redhat.java-1.37.0-darwin-arm64/lombok/lombok-1.18.34.jar -jar /Users/yyx/.vscode/extensions/redhat.java-1.37.0-darwin-arm64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /Users/yyx/Library/Application Support/Code/User/globalStorage/redhat.java/1.37.0/config_ss_mac -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/79baddded2d40a646f70e54e9e2b3694/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2024-12-07 02:08:58.398'
+}
+{
+  message: 'Starting Java server with: /Users/yyx/.vscode/extensions/redhat.java-1.37.0-darwin-arm64/jre/17.0.13-macosx-aarch64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/Users/yyx/.vscode/extensions/redhat.java-1.37.0-darwin-arm64/lombok/lombok-1.18.34.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/Users/yyx/Library/Application Support/Code/User/workspaceStorage/79baddded2d40a646f70e54e9e2b3694/redhat.java -Daether.dependencyCollector.impl=bf -jar /Users/yyx/.vscode/extensions/redhat.java-1.37.0-darwin-arm64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /Users/yyx/Library/Application Support/Code/User/globalStorage/redhat.java/1.37.0/config_mac -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/79baddded2d40a646f70e54e9e2b3694/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2024-12-07 02:08:58.546'
+}
+{
+  message: 'Dec 07, 2024 2:08:59 AM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-12-07 02:08:59.523'
+}
+{
+  message: 'Dec 07, 2024 2:08:59 AM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-12-07 02:08:59.528'
+}
+{
+  message: 'Dec 07, 2024 2:09:12 AM com.microsoft.java.debug.plugin.internal.JavaDebuggerServerPlugin start\n' +
+    'INFO: Starting com.microsoft.java.debug.plugin\n',
+  level: 'info',
+  timestamp: '2024-12-07 02:09:13.037'
+}
+{
+  message: '[Error - 2:09:19 AM] Dec 7, 2024, 2:09:19 AM Unable to load IDecompiler class for jarFileContentProvider',
+  level: 'info',
+  timestamp: '2024-12-07 02:09:19.577'
+}
+{
+  message: '[Error - 2:09:19 AM] Dec 7, 2024, 2:09:19 AM Unable to load IDecompiler class for jarFileContentProvider',
+  level: 'info',
+  timestamp: '2024-12-07 02:09:19.838'
+}
+{
+  message: '[Error - 2:09:20 AM] Dec 7, 2024, 2:09:20 AM Unable to load IDecompiler class for jarFileContentProvider',
+  level: 'info',
+  timestamp: '2024-12-07 02:09:20.084'
+}
+{
+  message: '[Error - 2:09:20 AM] Dec 7, 2024, 2:09:20 AM Unable to load IDecompiler class for jarFileContentProvider',
+  level: 'info',
+  timestamp: '2024-12-07 02:09:20.124'
+}
+{
+  message: '[Error - 2:09:42 AM] Dec 7, 2024, 2:09:42 AM Unable to load IDecompiler class for jarFileContentProvider',
+  level: 'info',
+  timestamp: '2024-12-07 02:09:42.577'
+}
+{
+  message: '[Error - 2:09:42 AM] Dec 7, 2024, 2:09:42 AM Unable to load IDecompiler class for jarFileContentProvider',
+  level: 'info',
+  timestamp: '2024-12-07 02:09:42.664'
+}
+{
+  message: '[Error - 2:09:42 AM] Dec 7, 2024, 2:09:42 AM Unable to load IDecompiler class for jarFileContentProvider',
+  level: 'info',
+  timestamp: '2024-12-07 02:09:42.921'
+}
+{
+  message: '[Error - 2:09:42 AM] Dec 7, 2024, 2:09:42 AM Unable to load IDecompiler class for jarFileContentProvider',
+  level: 'info',
+  timestamp: '2024-12-07 02:09:42.952'
+}
+{
+  message: '[Error - 2:09:43 AM] Dec 7, 2024, 2:09:43 AM Unable to load IDecompiler class for jarFileContentProvider',
+  level: 'info',
+  timestamp: '2024-12-07 02:09:43.397'
+}
+{
+  message: '[Error - 2:09:43 AM] Dec 7, 2024, 2:09:43 AM Unable to load IDecompiler class for jarFileContentProvider',
+  level: 'info',
+  timestamp: '2024-12-07 02:09:43.400'
+}
+{
+  message: "Failed to provide hover command Error: The request (id: 146, method: 'java/findLinks') has been cancelled",
+  level: 'error',
+  timestamp: '2024-12-07 02:09:43.777'
+}
+{
+  message: "Failed to provide hover command Error: The request (id: 669, method: 'java/findLinks') has been cancelled",
+  level: 'error',
+  timestamp: '2024-12-07 02:27:36.982'
+}
+{
+  message: "Failed to provide hover command Error: The request (id: 689, method: 'java/findLinks') has been cancelled",
+  level: 'error',
+  timestamp: '2024-12-07 02:28:18.591'
+}

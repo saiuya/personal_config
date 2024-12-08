@@ -1,0 +1,6 @@
+<application>
+    <component name="CountryRegionSetting">
+        <!-- <countryregion name="JP"/> -->
+        <countryregion name="CN"/>
+    </component>
+</application>

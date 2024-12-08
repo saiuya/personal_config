@@ -1,0 +1,3 @@
+ERROR:53:シンボルを見つけられません\n  シンボル\d   メソッド getData()\n  場所\d タイプcom.ican.model.dto.BiliUploadDTOの変数 biliUploadDTO
+ERROR:55:シンボルを見つけられません\n  シンボル\d   メソッド getImageUrl()\n  場所\d タイプcom.ican.model.dto.BiliUploadDTO.UploadDataの変数 data
+ERROR:59:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.service.BiliService

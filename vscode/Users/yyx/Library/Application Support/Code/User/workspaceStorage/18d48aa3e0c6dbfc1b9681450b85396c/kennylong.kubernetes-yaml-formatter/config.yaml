@@ -1,0 +1,7 @@
+formatter:
+  type: basic
+  indent: 2
+  line_ending: ~
+  retain_line_breaks: true
+  compact_sequence_indent: true
+  include_document_start: false

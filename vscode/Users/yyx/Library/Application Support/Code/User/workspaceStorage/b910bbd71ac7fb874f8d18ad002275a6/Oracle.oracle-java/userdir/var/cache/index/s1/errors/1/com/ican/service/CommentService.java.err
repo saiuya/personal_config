@@ -1,0 +1,122 @@
+ERROR:81:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)
+ERROR:88:シンボルを見つけられません\n  シンボル\d   メソッド getCommentCheck()\n  場所\d タイプcom.ican.entity.SiteConfigの変数 siteConfig
+ERROR:90:シンボルを見つけられません\n  シンボル\d   メソッド getCommentContent()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:91:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Comment
+ERROR:93:シンボルを見つけられません\n  シンボル\d   メソッド getToUid()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:94:シンボルを見つけられません\n  シンボル\d   メソッド getTypeId()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:95:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:96:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:97:シンボルを見つけられません\n  シンボル\d   メソッド getReplyId()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:98:シンボルを見つけられません\n  シンボル\d   メソッド getCommentContent()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:105:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getNickname()\n    場所\d クラス com.ican.entity.User
+ERROR:106:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.User
+ERROR:109:シンボルを見つけられません\n  シンボル\d   メソッド getEmailNotice()\n  場所\d タイプcom.ican.entity.SiteConfigの変数 siteConfig
+ERROR:116:シンボルを見つけられません\n  シンボル\d   メソッド getIdList()\n  場所\d タイプcom.ican.model.vo.request.CheckReqの変数 check
+ERROR:116:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Comment
+ERROR:116:シンボルを見つけられません\n  シンボル\d   メソッド getIsCheck()\n  場所\d タイプcom.ican.model.vo.request.CheckReqの変数 check
+ERROR:127:シンボルを見つけられません\n  シンボル\d   メソッド getTypeId()\n  場所\d タイプcom.ican.model.vo.query.CommentQueryの変数 commentQuery
+ERROR:127:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getTypeId()\n    場所\d クラス com.ican.entity.Comment
+ERROR:127:シンボルを見つけられません\n  シンボル\d   メソッド getTypeId()\n  場所\d タイプcom.ican.model.vo.query.CommentQueryの変数 commentQuery
+ERROR:128:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCommentType()\n    場所\d クラス com.ican.entity.Comment
+ERROR:128:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.model.vo.query.CommentQueryの変数 commentQuery
+ERROR:129:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getIsCheck()\n    場所\d クラス com.ican.entity.Comment
+ERROR:130:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getParentId()\n    場所\d クラス com.ican.entity.Comment
+ERROR:142:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.model.vo.response.CommentResp
+ERROR:146:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.response.ReplyRespの変数 item
+ERROR:148:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getParentId()\n    場所\d クラス com.ican.model.vo.response.ReplyResp
+ERROR:152:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCommentId()\n    場所\d クラス com.ican.model.vo.response.ReplyCountResp
+ERROR:152:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getReplyCount()\n    場所\d クラス com.ican.model.vo.response.ReplyCountResp
+ERROR:155:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.response.CommentRespの変数 item
+ERROR:156:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.response.CommentRespの変数 item
+ERROR:157:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.response.CommentRespの変数 item
+ERROR:159:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)
+ERROR:167:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.response.ReplyRespの変数 item
+ERROR:172:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:172:シンボルを見つけられません\n  シンボル\d   メソッド getType()\n  場所\d タイプcom.ican.enums.CommentTypeEnumの変数 ARTICLE
+ERROR:173:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Article
+ERROR:173:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Article
+ERROR:173:シンボルを見つけられません\n  シンボル\d   メソッド getTypeId()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:176:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:176:シンボルを見つけられません\n  シンボル\d   メソッド getType()\n  場所\d タイプcom.ican.enums.CommentTypeEnumの変数 TALK
+ERROR:177:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Talk
+ERROR:177:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Talk
+ERROR:177:シンボルを見つけられません\n  シンボル\d   メソッド getTypeId()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:181:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:183:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCommentType()\n    場所\d クラス com.ican.entity.Comment
+ERROR:183:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getParentId()\n    場所\d クラス com.ican.entity.Comment
+ERROR:183:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Comment
+ERROR:183:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Comment
+ERROR:185:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.entity.Commentの変数 parentComment
+ERROR:186:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:186:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.entity.Commentの変数 parentComment
+ERROR:188:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCommentType()\n    場所\d クラス com.ican.entity.Comment
+ERROR:188:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getFromUid()\n    場所\d クラス com.ican.entity.Comment
+ERROR:188:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getParentId()\n    場所\d クラス com.ican.entity.Comment
+ERROR:188:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Comment
+ERROR:188:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Comment
+ERROR:188:シンボルを見つけられません\n  シンボル\d   メソッド getReplyId()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:189:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.User
+ERROR:189:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.User
+ERROR:189:シンボルを見つけられません\n  シンボル\d   メソッド getToUid()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:192:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:192:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.entity.Commentの変数 replyComment
+ERROR:193:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.entity.Commentの変数 replyComment
+ERROR:194:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.entity.Commentの変数 replyComment
+ERROR:196:シンボルを見つけられません\n  シンボル\d   メソッド getFromUid()\n  場所\d タイプcom.ican.entity.Commentの変数 replyComment
+ERROR:196:シンボルを見つけられません\n  シンボル\d   メソッド getToUid()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 comment
+ERROR:212:シンボルを見つけられません\n  シンボル\d   メソッド getFromUid()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:212:シンボルを見つけられません\n  シンボル\d   メソッド getToUid()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:220:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:221:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:221:シンボルを見つけられません\n  シンボル\d   メソッド getType()\n  場所\d タイプcom.ican.enums.CommentTypeEnumの変数 ARTICLE
+ERROR:223:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getArticleTitle()\n    場所\d クラス com.ican.entity.Article
+ERROR:223:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getUserId()\n    場所\d クラス com.ican.entity.Article
+ERROR:224:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Article
+ERROR:224:シンボルを見つけられません\n  シンボル\d   メソッド getTypeId()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:225:シンボルを見つけられません\n  シンボル\d   メソッド getArticleTitle()\n  場所\d タイプcom.ican.entity.Articleの変数 article
+ERROR:226:シンボルを見つけられません\n  シンボル\d   メソッド getUserId()\n  場所\d タイプcom.ican.entity.Articleの変数 article
+ERROR:228:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:228:シンボルを見つけられません\n  シンボル\d   メソッド getType()\n  場所\d タイプcom.ican.enums.CommentTypeEnumの変数 TALK
+ERROR:231:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getUserId()\n    場所\d クラス com.ican.entity.Talk
+ERROR:232:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Talk
+ERROR:232:シンボルを見つけられません\n  シンボル\d   メソッド getTypeId()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:236:シンボルを見つけられません\n  シンボル\d   メソッド getFromUid()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:241:シンボルを見つけられません\n  シンボル\d   メソッド getToUid()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:242:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:242:シンボルを見つけられません\n  シンボル\d   メソッド getType()\n  場所\d タイプcom.ican.enums.CommentTypeEnumの変数 ARTICLE
+ERROR:244:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getArticleTitle()\n    場所\d クラス com.ican.entity.Article
+ERROR:245:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Article
+ERROR:245:シンボルを見つけられません\n  シンボル\d   メソッド getTypeId()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:248:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:248:シンボルを見つけられません\n  シンボル\d   メソッド getType()\n  場所\d タイプcom.ican.enums.CommentTypeEnumの変数 TALK
+ERROR:254:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getEmail()\n    場所\d クラス com.ican.entity.User
+ERROR:254:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getNickname()\n    場所\d クラス com.ican.entity.User
+ERROR:255:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.User
+ERROR:257:シンボルを見つけられません\n  シンボル\d   メソッド getEmail()\n  場所\d タイプcom.ican.entity.Userの変数 toUser
+ERROR:272:シンボルを見つけられません\n  シンボル\d   メソッド getIsCheck()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:275:シンボルを見つけられません\n  シンボル\d   メソッド getTypeId()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:278:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:280:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:281:シンボルを見つけられません\n  シンボル\d   メソッド getEmail()\n  場所\d タイプcom.ican.entity.Userの変数 toUser
+ERROR:282:シンボルを見つけられません\n  シンボル\d   メソッド setSubject(java.lang.String)\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:283:シンボルを見つけられません\n  シンボル\d   メソッド setTemplate(java.lang.String)\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:284:シンボルを見つけられません\n  シンボル\d   メソッド getCreateTime()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:289:シンボルを見つけられません\n  シンボル\d   メソッド getCommentContent()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:290:シンボルを見つけられません\n  シンボル\d   メソッド setContentMap(java.util.Map<java.lang.String,java.lang.Object>)\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:294:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCommentContent()\n    場所\d クラス com.ican.entity.Comment
+ERROR:294:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCreateTime()\n    場所\d クラス com.ican.entity.Comment
+ERROR:295:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Comment
+ERROR:295:シンボルを見つけられません\n  シンボル\d   メソッド getReplyId()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:296:シンボルを見つけられません\n  シンボル\d   メソッド getEmail()\n  場所\d タイプcom.ican.entity.Userの変数 toUser
+ERROR:297:シンボルを見つけられません\n  シンボル\d   メソッド setSubject(java.lang.String)\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:298:シンボルを見つけられません\n  シンボル\d   メソッド setTemplate(java.lang.String)\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:301:シンボルを見つけられません\n  シンボル\d   メソッド getCreateTime()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:304:シンボルを見つけられません\n  シンボル\d   メソッド getNickname()\n  場所\d タイプcom.ican.entity.Userの変数 toUser
+ERROR:308:シンボルを見つけられません\n  シンボル\d   メソッド getCommentContent()\n  場所\d タイプcom.ican.entity.Commentの変数 parentComment
+ERROR:310:シンボルを見つけられません\n  シンボル\d   メソッド getCommentContent()\n  場所\d タイプcom.ican.entity.Commentの変数 comment
+ERROR:311:シンボルを見つけられません\n  シンボル\d   メソッド setContentMap(java.util.Map<java.lang.String,java.lang.Object>)\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:319:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getEmail()\n    場所\d クラス com.ican.entity.User
+ERROR:320:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.User
+ERROR:321:シンボルを見つけられません\n  シンボル\d   メソッド setToEmail(java.lang.String)\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:322:シンボルを見つけられません\n  シンボル\d   メソッド setSubject(java.lang.String)\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:323:シンボルを見つけられません\n  シンボル\d   メソッド setContent(java.lang.String)\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO

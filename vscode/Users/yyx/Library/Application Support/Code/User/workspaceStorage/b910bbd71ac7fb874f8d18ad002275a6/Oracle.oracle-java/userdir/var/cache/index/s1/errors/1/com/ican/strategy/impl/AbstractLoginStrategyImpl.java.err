@@ -1,0 +1,16 @@
+ERROR:42:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.User
+ERROR:43:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getUsername()\n    場所\d クラス com.ican.entity.User
+ERROR:43:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.dto.SocialUserInfoDTOの変数 socialUserInfoDTO
+ERROR:44:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getLoginType()\n    場所\d クラス com.ican.entity.User
+ERROR:44:シンボルを見つけられません\n  シンボル\d   メソッド getLoginType()\n  場所\d タイプcom.ican.model.dto.SocialTokenDTOの変数 socialToken
+ERROR:52:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:54:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:82:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.User
+ERROR:83:シンボルを見つけられません\n  シンボル\d   メソッド getAvatar()\n  場所\d タイプcom.ican.model.dto.SocialUserInfoDTOの変数 socialUserInfoDTO
+ERROR:84:シンボルを見つけられません\n  シンボル\d   メソッド getNickname()\n  場所\d タイプcom.ican.model.dto.SocialUserInfoDTOの変数 socialUserInfoDTO
+ERROR:85:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.dto.SocialUserInfoDTOの変数 socialUserInfoDTO
+ERROR:86:シンボルを見つけられません\n  シンボル\d   メソッド getAccessToken()\n  場所\d タイプcom.ican.model.dto.SocialTokenDTOの変数 socialToken
+ERROR:87:シンボルを見つけられません\n  シンボル\d   メソッド getLoginType()\n  場所\d タイプcom.ican.model.dto.SocialTokenDTOの変数 socialToken
+ERROR:91:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.UserRole
+ERROR:92:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Userの変数 newUser
+ERROR:93:シンボルを見つけられません\n  シンボル\d   メソッド getRoleId()\n  場所\d タイプcom.ican.enums.RoleEnumの変数 USER

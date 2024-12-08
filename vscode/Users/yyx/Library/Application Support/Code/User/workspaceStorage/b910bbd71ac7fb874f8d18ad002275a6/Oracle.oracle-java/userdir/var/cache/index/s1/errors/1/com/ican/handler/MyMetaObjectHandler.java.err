@@ -1,0 +1,2 @@
+ERROR:24:シンボルを見つけられません\n  シンボル\d   メソッド getZone()\n  場所\d タイプcom.ican.enums.ZoneEnumの変数 SHANGHAI
+ERROR:29:シンボルを見つけられません\n  シンボル\d   メソッド getZone()\n  場所\d タイプcom.ican.enums.ZoneEnumの変数 SHANGHAI

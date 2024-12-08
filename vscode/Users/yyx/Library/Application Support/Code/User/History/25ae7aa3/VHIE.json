@@ -1,0 +1,26 @@
+// {
+//   "workbench.colorCustomizations": {
+//     "[Default Dark Modern]": {
+//       "tab.activeBorderTop": "#00FF00",
+//       "tab.unfocusedActiveBorderTop": "#00FF0088",
+//       "editor.selectionBackground": "#ff0000",
+//     },
+//     "editor.wordHighlightStrongBorder": "#FF6347",
+//     "editor.wordHighlightBorder": "#FFD700",
+//     "editor.selectionHighlightBorder": "#e60b0b",
+//     "activityBar.background": "#182E49",
+//     "titleBar.activeBackground": "#224166",
+//     "titleBar.activeForeground": "#F8FAFD"
+//   },
+//   "editor.gotoLocation.alternativeDeclarationCommand": "editor.action.revealDefinition",
+//   "editor.gotoLocation.alternativeDefinitionCommand": "editor.action.revealDefinition",
+//   "editor.gotoLocation.alternativeTypeDefinitionCommand": "editor.action.revealDefinition",
+//   "editor.selectionHighlight": false,
+//   "files.autoSave": "onFocusChange",
+//   "editor.suggest.snippetsPreventQuickSuggestions": false,
+//   "editor.quickSuggestions": {
+//     "other": "on",
+//     "comments": "off",
+//     "strings": "on"
+//   }
+// }

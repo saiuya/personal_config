@@ -1,0 +1,9 @@
+ERROR:35:シンボルを見つけられません\n  シンボル\d   メソッド getArticleContent()\n  場所\d タイプcom.ican.model.vo.response.ArticleSearchRespの変数 article
+ERROR:36:シンボルを見つけられません\n  シンボル\d   メソッド getArticleContent()\n  場所\d タイプcom.ican.model.vo.response.ArticleSearchRespの変数 article
+ERROR:40:シンボルを見つけられません\n  シンボル\d   メソッド getArticleContent()\n  場所\d タイプcom.ican.model.vo.response.ArticleSearchRespの変数 article
+ERROR:43:シンボルを見つけられません\n  シンボル\d   メソッド getArticleContent()\n  場所\d タイプcom.ican.model.vo.response.ArticleSearchRespの変数 article
+ERROR:45:シンボルを見つけられません\n  シンボル\d   メソッド getArticleContent()\n  場所\d タイプcom.ican.model.vo.response.ArticleSearchRespの変数 article
+ERROR:50:シンボルを見つけられません\n  シンボル\d   メソッド getArticleTitle()\n  場所\d タイプcom.ican.model.vo.response.ArticleSearchRespの変数 article
+ERROR:51:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.vo.response.ArticleSearchResp
+ERROR:52:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.response.ArticleSearchRespの変数 article
+ERROR:57:不適合な型\d 推論変数Tには、不適合な境界があります\n    等価制約\d com.ican.model.vo.response.ArticleSearchResp\n    下限\d java.lang.Object

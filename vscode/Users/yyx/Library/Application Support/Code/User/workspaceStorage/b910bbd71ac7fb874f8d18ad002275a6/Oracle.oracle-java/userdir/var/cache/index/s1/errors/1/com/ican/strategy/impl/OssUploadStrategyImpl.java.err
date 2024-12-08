@@ -1,0 +1,11 @@
+ERROR:28:シンボルを見つけられません\n  シンボル\d   メソッド getBucketName()\n  場所\d タイプcom.ican.config.properties.OssPropertiesの変数 ossProperties
+ERROR:36:シンボルを見つけられません\n  シンボル\d   メソッド getBucketName()\n  場所\d タイプcom.ican.config.properties.OssPropertiesの変数 ossProperties
+ERROR:38:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.strategy.impl.OssUploadStrategyImpl
+ERROR:39:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.strategy.impl.OssUploadStrategyImpl
+ERROR:40:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.strategy.impl.OssUploadStrategyImpl
+ERROR:41:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.strategy.impl.OssUploadStrategyImpl
+ERROR:43:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.strategy.impl.OssUploadStrategyImpl
+ERROR:53:シンボルを見つけられません\n  シンボル\d   メソッド getUrl()\n  場所\d タイプcom.ican.config.properties.OssPropertiesの変数 ossProperties
+ERROR:62:シンボルを見つけられません\n  シンボル\d   メソッド getEndpoint()\n  場所\d タイプcom.ican.config.properties.OssPropertiesの変数 ossProperties
+ERROR:62:シンボルを見つけられません\n  シンボル\d   メソッド getAccessKeyId()\n  場所\d タイプcom.ican.config.properties.OssPropertiesの変数 ossProperties
+ERROR:62:シンボルを見つけられません\n  シンボル\d   メソッド getAccessKeySecret()\n  場所\d タイプcom.ican.config.properties.OssPropertiesの変数 ossProperties

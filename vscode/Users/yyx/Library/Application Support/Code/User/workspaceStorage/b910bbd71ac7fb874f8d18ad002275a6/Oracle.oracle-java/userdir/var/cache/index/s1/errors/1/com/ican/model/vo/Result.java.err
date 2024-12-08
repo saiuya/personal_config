@@ -1,0 +1,9 @@
+ERROR:44:シンボルを見つけられません\n  シンボル\d   メソッド getCode()\n  場所\d タイプcom.ican.enums.StatusCodeEnumの変数 SUCCESS
+ERROR:44:シンボルを見つけられません\n  シンボル\d   メソッド getMsg()\n  場所\d タイプcom.ican.enums.StatusCodeEnumの変数 SUCCESS
+ERROR:48:シンボルを見つけられません\n  シンボル\d   メソッド getCode()\n  場所\d タイプcom.ican.enums.StatusCodeEnumの変数 SUCCESS
+ERROR:48:シンボルを見つけられません\n  シンボル\d   メソッド getMsg()\n  場所\d タイプcom.ican.enums.StatusCodeEnumの変数 SUCCESS
+ERROR:52:シンボルを見つけられません\n  シンボル\d   メソッド getCode()\n  場所\d タイプcom.ican.enums.StatusCodeEnumの変数 FAIL
+ERROR:61:シンボルを見つけられません\n  シンボル\d   メソッド setFlag(java.lang.Boolean)\n  場所\d タイプcom.ican.model.vo.Result<T>の変数 r
+ERROR:62:シンボルを見つけられません\n  シンボル\d   メソッド setData(T)\n  場所\d タイプcom.ican.model.vo.Result<T>の変数 r
+ERROR:63:シンボルを見つけられません\n  シンボル\d   メソッド setCode(java.lang.Integer)\n  場所\d タイプcom.ican.model.vo.Result<T>の変数 r
+ERROR:64:シンボルを見つけられません\n  シンボル\d   メソッド setMsg(java.lang.String)\n  場所\d タイプcom.ican.model.vo.Result<T>の変数 r

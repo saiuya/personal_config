@@ -1,0 +1,7 @@
+ERROR:31:シンボルを見つけられません\n  シンボル\d   メソッド getCode()\n  場所\d タイプcom.ican.model.dto.BiliIpInfoDTOの変数 ipInfoDTO
+ERROR:32:シンボルを見つけられません\n  シンボル\d   メソッド getData()\n  場所\d タイプcom.ican.model.dto.BiliIpInfoDTOの変数 ipInfoDTO
+ERROR:34:シンボルを見つけられません\n  シンボル\d   メソッド getCountry()\n  場所\d タイプcom.ican.model.dto.BiliIpInfoDTO.IpInfoDataの変数 ipInfoData
+ERROR:34:シンボルを見つけられません\n  シンボル\d   メソッド getProvince()\n  場所\d タイプcom.ican.model.dto.BiliIpInfoDTO.IpInfoDataの変数 ipInfoData
+ERROR:34:シンボルを見つけられません\n  シンボル\d   メソッド getCity()\n  場所\d タイプcom.ican.model.dto.BiliIpInfoDTO.IpInfoDataの変数 ipInfoData
+ERROR:34:シンボルを見つけられません\n  シンボル\d   メソッド getIsp()\n  場所\d タイプcom.ican.model.dto.BiliIpInfoDTO.IpInfoDataの変数 ipInfoData
+ERROR:38:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.utils.IpUtils

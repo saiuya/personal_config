@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/Library/Java/JavaVirtualMachines/microsoft-11.jdk/Contents/Home" stamp="1661032044000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home" stamp="1719298846890"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home" stamp="1626879432000"/>
+    <entry loc="/opt/homebrew/Cellar/openjdk/23/libexec/openjdk.jdk/Contents/Home" stamp="1724169424000"/>
+    <entry loc="/opt/homebrew/Cellar/openjdk@21/21.0.5/libexec/openjdk.jdk/Contents/Home" stamp="1728675762000"/>
+    <entry loc="/Users/yyx/Library/Java/JavaVirtualMachines/jbr-17.0.12/Contents/Home" stamp="1729801213574"/>
+    <entry loc="/Users/yyx/.vscode/extensions/redhat.java-1.37.0-darwin-arm64/jre/17.0.13-macosx-aarch64" stamp="1733498200875"/>
+</dirs>

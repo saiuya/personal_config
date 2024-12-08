@@ -1,0 +1,8 @@
+ERROR:18:列挙 com.ican.enums.ChatTypeEnumのコンストラクタ ChatTypeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    int,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:23:列挙 com.ican.enums.ChatTypeEnumのコンストラクタ ChatTypeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    int,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:28:列挙 com.ican.enums.ChatTypeEnumのコンストラクタ ChatTypeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    int,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:33:列挙 com.ican.enums.ChatTypeEnumのコンストラクタ ChatTypeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    int,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:38:列挙 com.ican.enums.ChatTypeEnumのコンストラクタ ChatTypeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    int,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:58:シンボルを見つけられません\n  シンボル\d   メソッド getType()\n  場所\d タイプcom.ican.enums.ChatTypeEnumの変数 chatType
+ERROR:43:変数typeは、デフォルト・コンストラクタで初期化されていません
+ERROR:48:変数descは、デフォルト・コンストラクタで初期化されていません

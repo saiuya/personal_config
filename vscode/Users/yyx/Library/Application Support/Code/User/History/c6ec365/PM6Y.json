@@ -1,0 +1,11 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#213304",
+    "titleBar.activeBackground": "#2F4705",
+    "titleBar.activeForeground": "#F5FDE9"
+  },
+  "java.compile.nullAnalysis.mode": "disabled",
+  "editor.fontSize": 18,
+  "typescript.tsserver.web.projectWideIntellisense.suppressSemanticErrors": false,
+  "typescript.tsserver.maxTsServerMemory": 8192
+}

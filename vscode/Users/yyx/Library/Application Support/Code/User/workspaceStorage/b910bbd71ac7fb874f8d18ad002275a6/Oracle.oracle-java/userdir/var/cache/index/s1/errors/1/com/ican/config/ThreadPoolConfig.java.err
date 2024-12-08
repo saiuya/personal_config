@@ -1,0 +1,5 @@
+ERROR:36:シンボルを見つけられません\n  シンボル\d   メソッド getCorePoolSize()\n  場所\d タイプcom.ican.config.properties.ThreadPoolPropertiesの変数 threadPoolProperties
+ERROR:38:シンボルを見つけられません\n  シンボル\d   メソッド getMaxPoolSize()\n  場所\d タイプcom.ican.config.properties.ThreadPoolPropertiesの変数 threadPoolProperties
+ERROR:40:シンボルを見つけられません\n  シンボル\d   メソッド getQueueCapacity()\n  場所\d タイプcom.ican.config.properties.ThreadPoolPropertiesの変数 threadPoolProperties
+ERROR:42:シンボルを見つけられません\n  シンボル\d   メソッド getKeepAliveSeconds()\n  場所\d タイプcom.ican.config.properties.ThreadPoolPropertiesの変数 threadPoolProperties
+ERROR:53:シンボルを見つけられません\n  シンボル\d   メソッド getCorePoolSize()\n  場所\d タイプcom.ican.config.properties.ThreadPoolPropertiesの変数 threadPoolProperties

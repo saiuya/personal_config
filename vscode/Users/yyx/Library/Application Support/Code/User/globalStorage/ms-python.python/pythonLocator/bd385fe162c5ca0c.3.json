@@ -1,0 +1,36 @@
+{
+  "environment": {
+    "executable": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+    "prefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+    "version": "3.10.14.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/opt/homebrew/bin/python3.10",
+      "/opt/homebrew/opt/python@3.10/bin/python3.10"
+    ]
+  },
+  "symlinks": [
+    [
+      "/opt/homebrew/bin/python3.10",
+      {
+        "secs_since_epoch": 1722091739,
+        "nanos_since_epoch": 119096002
+      },
+      {
+        "secs_since_epoch": 1722091739,
+        "nanos_since_epoch": 87803888
+      }
+    ],
+    [
+      "/opt/homebrew/opt/python@3.10/bin/python3.10",
+      {
+        "secs_since_epoch": 1722091739,
+        "nanos_since_epoch": 119096002
+      },
+      {
+        "secs_since_epoch": 1722091739,
+        "nanos_since_epoch": 87803888
+      }
+    ]
+  ]
+}

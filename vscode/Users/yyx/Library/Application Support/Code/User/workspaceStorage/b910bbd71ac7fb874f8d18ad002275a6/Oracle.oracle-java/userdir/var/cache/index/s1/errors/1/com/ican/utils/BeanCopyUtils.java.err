@@ -1,0 +1,1 @@
+ERROR:27:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.utils.BeanCopyUtils

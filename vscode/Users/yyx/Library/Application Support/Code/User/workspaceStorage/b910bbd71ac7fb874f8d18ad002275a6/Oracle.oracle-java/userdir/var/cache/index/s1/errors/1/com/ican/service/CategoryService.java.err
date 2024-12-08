@@ -1,0 +1,34 @@
+ERROR:48:シンボルを見つけられません\n  シンボル\d   メソッド getKeyword()\n  場所\d タイプcom.ican.model.vo.query.CategoryQueryの変数 categoryQuery
+ERROR:47:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCategoryName()\n    場所\d クラス com.ican.entity.Category
+ERROR:47:シンボルを見つけられません\n  シンボル\d   メソッド getKeyword()\n  場所\d タイプcom.ican.model.vo.query.CategoryQueryの変数 categoryQuery
+ERROR:56:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.model.vo.response.CategoryBackResp
+ERROR:60:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.model.vo.response.CategoryBackRespの変数 category
+ERROR:72:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)
+ERROR:78:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Category
+ERROR:79:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCategoryName()\n    場所\d クラス com.ican.entity.Category
+ERROR:79:シンボルを見つけられません\n  シンボル\d   メソッド getCategoryName()\n  場所\d タイプcom.ican.model.vo.request.CategoryReqの変数 category
+ERROR:80:シンボルを見つけられません\n  シンボル\d   メソッド getCategoryName()\n  場所\d タイプcom.ican.model.vo.request.CategoryReqの変数 category
+ERROR:82:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Category
+ERROR:83:シンボルを見つけられません\n  シンボル\d   メソッド getCategoryName()\n  場所\d タイプcom.ican.model.vo.request.CategoryReqの変数 category
+ERROR:91:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCategoryId()\n    場所\d クラス com.ican.entity.Article
+ERROR:100:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Category
+ERROR:101:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCategoryName()\n    場所\d クラス com.ican.entity.Category
+ERROR:101:シンボルを見つけられません\n  シンボル\d   メソッド getCategoryName()\n  場所\d タイプcom.ican.model.vo.request.CategoryReqの変数 category
+ERROR:102:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Categoryの変数 existCategory
+ERROR:102:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.CategoryReqの変数 category
+ERROR:103:シンボルを見つけられません\n  シンボル\d   メソッド getCategoryName()\n  場所\d タイプcom.ican.model.vo.request.CategoryReqの変数 category
+ERROR:105:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Category
+ERROR:106:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.CategoryReqの変数 category
+ERROR:107:シンボルを見つけられません\n  シンボル\d   メソッド getCategoryName()\n  場所\d タイプcom.ican.model.vo.request.CategoryReqの変数 category
+ERROR:115:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Category
+ERROR:126:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCategoryName()\n    場所\d クラス com.ican.entity.Category
+ERROR:127:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Category
+ERROR:127:シンボルを見つけられません\n  シンボル\d   メソッド getCategoryId()\n  場所\d タイプcom.ican.model.vo.query.ArticleConditionQueryの変数 articleConditionQuery
+ERROR:129:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.vo.response.ArticleConditionList
+ERROR:151:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.model.vo.response.CategoryBackRespの変数 category
+ERROR:152:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.response.CategoryBackRespの変数 category
+ERROR:168:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.response.CategoryBackRespの変数 treeNode
+ERROR:169:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.model.vo.response.CategoryBackRespの変数 treeNode
+ERROR:170:シンボルを見つけられません\n  シンボル\d   メソッド getCategoryName()\n  場所\d タイプcom.ican.model.vo.response.CategoryBackRespの変数 treeNode
+ERROR:171:シンボルを見つけられません\n  シンボル\d   メソッド getArticleCount()\n  場所\d タイプcom.ican.model.vo.response.CategoryBackRespの変数 treeNode
+ERROR:172:シンボルを見つけられません\n  シンボル\d   メソッド getCreateTime()\n  場所\d タイプcom.ican.model.vo.response.CategoryBackRespの変数 treeNode

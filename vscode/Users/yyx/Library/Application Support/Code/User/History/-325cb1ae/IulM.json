@@ -1,0 +1,20 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#043524",
+    "titleBar.activeBackground": "#064A33",
+    "titleBar.activeForeground": "#EBFEF7"
+  },
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "editor.gotoLocation.alternativeDeclarationCommand": "editor.action.revealDefinition",
+  "editor.gotoLocation.alternativeDefinitionCommand": "editor.action.revealDefinition",
+  "editor.gotoLocation.alternativeTypeDefinitionCommand": "editor.action.revealDefinition",
+  "editor.selectionHighlight": false,
+  "files.autoSave": "onFocusChange",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "on"
+  }
+}

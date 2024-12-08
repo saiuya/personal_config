@@ -1,0 +1,26 @@
+{
+  "CangjieSdk.Option": "CJVM",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#292243",
+    "titleBar.activeBackground": "#39305D",
+    "titleBar.activeForeground": "#FAF9FC"
+  },
+  "terminal.integrated.env.osx": {
+    "CANGJIE_HOME": "/Users/yyx/cangjie",
+    "CANGJIE_PATH": "/Users/yyx/cangjie/bin:/Users/yyx/cangjie/tools/bin:/Users/yyx/cangjie/debugger/bin:",
+    "CANGJIE_LD_LIBRARY_PATH": "/Users/yyx/cangjie/runtime/lib/darwin_aarch64_llvm:/Users/yyx/cangjie/tools/lib:",
+    "DYLD_LIBRARY_PATH": "${config:terminal.integrated.env.osx.CANGJIE_LD_LIBRARY_PATH}:${env:DYLD_LIBRARY_PATH}",
+    "PATH": "${config:terminal.integrated.env.osx.CANGJIE_PATH}:${env:PATH}"
+  },
+  "editor.gotoLocation.alternativeDeclarationCommand": "editor.action.revealDefinition",
+  "editor.gotoLocation.alternativeDefinitionCommand": "editor.action.revealDefinition",
+  "editor.gotoLocation.alternativeTypeDefinitionCommand": "editor.action.revealDefinition",
+  "editor.selectionHighlight": false,
+  "files.autoSave": "onFocusChange",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "on"
+  }
+}

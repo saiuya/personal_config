@@ -1,0 +1,67 @@
+!SESSION 2024-10-19 21:59:11.132 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.12
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_JP
+Framework arguments:  --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-553ff7c5181236ddf9e22b81c1ca884e.sock
+Command-line arguments:  -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/56e95295698387bbe9a298cce8a55bc2/redhat.java/ss_ws --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-553ff7c5181236ddf9e22b81c1ca884e.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:13.235
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:13.348
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:13.377
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:13.378
+!MESSAGE Initializing Java Language Server 1.40.0.202409261450
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:14.959
+!MESSAGE Setting /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home as 'JavaSE-1.8' environment (id:net.temurin.8.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:14.960
+!MESSAGE Setting /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home as 'JavaSE-21' environment (id:com.oracle.java.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:14.962
+!MESSAGE Setting /opt/homebrew/Cellar/openjdk/23/libexec/openjdk.jdk/Contents/Home as 'JavaSE-23' environment (id:1729342754961)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:14.963
+!MESSAGE Setting /Library/Java/JavaVirtualMachines/microsoft-11.jdk/Contents/Home as 'JavaSE-11' environment (id:com.microsoft.11.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:14.964
+!MESSAGE Setting java.home /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:14.969
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:14.980
+!MESSAGE Workspace initialized in 3ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:14.988
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:14.993
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:14.994
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:14.996
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:14.997
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:15.570
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:15.584
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:15.661
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-19 21:59:15.663
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

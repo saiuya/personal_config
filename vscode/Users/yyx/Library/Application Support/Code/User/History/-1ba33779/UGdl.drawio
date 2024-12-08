@@ -1,0 +1,143 @@
+<mxfile host="65bd71144e">
+    <diagram id="Ak6OZtN7oj5A9qNA5FTk" name="Page-1">
+        <mxGraphModel dx="1450" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="88" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#00FF80;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="960" width="500" height="500" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AR文化観光&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="230" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;需求与研究动机&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="780" y="430" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;研究目的&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="780" y="610" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;文化观光行业现状分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="780" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;相关研究&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="780" y="520" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;研究手段&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="780" y="700" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;实验对象和假设&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="780" y="790" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;验证假设&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="780" y="970" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;未来工作&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="780" y="1060" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;执行实验&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="780" y="880" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;上下文架构&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" style="edgeStyle=none;html=1;" edge="1" parent="1" source="58" target="74">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;业务架构图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59" target="74">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;应用架构图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;类图&lt;br&gt;ER图&lt;br&gt;流程图&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="760" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" style="edgeStyle=none;html=1;" edge="1" parent="1" source="61" target="74">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;技术架构图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="660" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;运维架构图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="870" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" style="edgeStyle=none;html=1;" edge="1" parent="1" source="63">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="210" y="400" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="70" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="63">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="210" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="63" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;上下文&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="410" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="65">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="210" y="590" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="65" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;容器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" style="edgeStyle=none;html=1;" edge="1" parent="1" source="66">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="210" y="790" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="66" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;代码&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="760" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="67">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="210" y="690" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="67" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;组件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="660" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;运维架构&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="870" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;时序图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;上下文架构图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="1030" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;业务架构图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="1110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;应用架构图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="1020" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;技术架构图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="1110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;类图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="1250" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;ER图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="1330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;持续部署图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="1250" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;微服务架构图&lt;br&gt;地区就近原则&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="1330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;时序图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="1130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;流程图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="1210" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

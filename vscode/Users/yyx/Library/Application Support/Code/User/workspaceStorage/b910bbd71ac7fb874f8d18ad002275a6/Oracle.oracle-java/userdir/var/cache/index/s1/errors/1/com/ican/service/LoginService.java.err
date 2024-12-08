@@ -1,0 +1,22 @@
+ERROR:64:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.User
+ERROR:65:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getUsername()\n    場所\d クラス com.ican.entity.User
+ERROR:65:シンボルを見つけられません\n  シンボル\d   メソッド getUsername()\n  場所\d タイプcom.ican.model.vo.request.LoginReqの変数 login
+ERROR:66:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getPassword()\n    場所\d クラス com.ican.entity.User
+ERROR:66:シンボルを見つけられません\n  シンボル\d   メソッド getPassword()\n  場所\d タイプcom.ican.model.vo.request.LoginReqの変数 login
+ERROR:69:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:71:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:79:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.dto.MailDTO
+ERROR:93:シンボルを見つけられません\n  シンボル\d   メソッド getUsername()\n  場所\d タイプcom.ican.model.vo.request.RegisterReqの変数 register
+ERROR:93:シンボルを見つけられません\n  シンボル\d   メソッド getCode()\n  場所\d タイプcom.ican.model.vo.request.RegisterReqの変数 register
+ERROR:95:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getUsername()\n    場所\d クラス com.ican.entity.User
+ERROR:96:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getUsername()\n    場所\d クラス com.ican.entity.User
+ERROR:96:シンボルを見つけられません\n  シンボル\d   メソッド getUsername()\n  場所\d タイプcom.ican.model.vo.request.RegisterReqの変数 register
+ERROR:100:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.User
+ERROR:101:シンボルを見つけられません\n  シンボル\d   メソッド getUsername()\n  場所\d タイプcom.ican.model.vo.request.RegisterReqの変数 register
+ERROR:102:シンボルを見つけられません\n  シンボル\d   メソッド getUsername()\n  場所\d タイプcom.ican.model.vo.request.RegisterReqの変数 register
+ERROR:104:シンボルを見つけられません\n  シンボル\d   メソッド getUserAvatar()\n  場所\d タイプcom.ican.entity.SiteConfigの変数 siteConfig
+ERROR:105:シンボルを見つけられません\n  シンボル\d   メソッド getPassword()\n  場所\d タイプcom.ican.model.vo.request.RegisterReqの変数 register
+ERROR:106:シンボルを見つけられません\n  シンボル\d   メソッド getLoginType()\n  場所\d タイプcom.ican.enums.LoginTypeEnumの変数 EMAIL
+ERROR:111:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.UserRole
+ERROR:112:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Userの変数 newUser
+ERROR:113:シンボルを見つけられません\n  シンボル\d   メソッド getRoleId()\n  場所\d タイプcom.ican.enums.RoleEnumの変数 USER

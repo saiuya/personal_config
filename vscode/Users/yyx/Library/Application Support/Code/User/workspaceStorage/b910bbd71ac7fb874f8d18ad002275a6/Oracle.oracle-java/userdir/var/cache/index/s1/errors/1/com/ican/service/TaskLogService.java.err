@@ -1,0 +1,1 @@
+ERROR:33:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)

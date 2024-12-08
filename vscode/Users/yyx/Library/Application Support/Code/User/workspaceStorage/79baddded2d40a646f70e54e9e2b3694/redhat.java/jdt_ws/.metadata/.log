@@ -1,0 +1,649 @@
+!SESSION 2024-12-07 02:08:58.866 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.13
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_JP
+Framework arguments:  --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-de7f8b1981c77b9ff3b6ce170ca8c746.sock
+Command-line arguments:  -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/79baddded2d40a646f70e54e9e2b3694/redhat.java/jdt_ws --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-de7f8b1981c77b9ff3b6ce170ca8c746.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:01.864
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:02.096
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:02.126
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:02.130
+!MESSAGE Initializing Java Language Server 1.42.0.202411280416
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:02.131
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:03.989
+!MESSAGE ProjectRegistryRefreshJob finished 1857ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:04.050
+!MESSAGE Started org.eclipse.buildship.core 61ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.697
+!MESSAGE Default VM Install changed from  null to 1733504945689-/Users/yyx/.vscode/extensions/redhat.java-1.37.0-darwin-arm64/jre/17.0.13-macosx-aarch64
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.727
+!MESSAGE Setting /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home as 'JavaSE-1.8' environment (id:net.temurin.8.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.733
+!MESSAGE Setting /opt/homebrew/Cellar/openjdk@21/21.0.5/libexec/openjdk.jdk/Contents/Home as 'JavaSE-21' environment (id:1733504945729)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.740
+!MESSAGE Setting runtime JavaSE-23-/opt/homebrew/Cellar/openjdk/23/libexec/openjdk.jdk/Contents/Home as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.742
+!MESSAGE Default VM Install changed from  1733504945689-/Users/yyx/.vscode/extensions/redhat.java-1.37.0-darwin-arm64/jre/17.0.13-macosx-aarch64 to 1733504945735-/opt/homebrew/Cellar/openjdk/23/libexec/openjdk.jdk/Contents/Home
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.755
+!MESSAGE Setting /opt/homebrew/Cellar/openjdk/23/libexec/openjdk.jdk/Contents/Home as 'JavaSE-23' environment (id:1733504945735)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.758
+!MESSAGE Setting /Library/Java/JavaVirtualMachines/microsoft-11.jdk/Contents/Home as 'JavaSE-11' environment (id:com.microsoft.11.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.761
+!MESSAGE Setting /Users/yyx/Library/Java/JavaVirtualMachines/jbr-17.0.12/Contents/Home as 'JavaSE-17' environment (id:com.jetbrains.jbr.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.764
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.796
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.796
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.797
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.797
+!MESSAGE Non-Static Commands: [java.intellicode.enable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.797
+!MESSAGE Static Commands: [sts.java.addClasspathListener, sts.java.removeClasspathListener]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.798
+!MESSAGE Non-Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.798
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.799
+!MESSAGE Non-Static Commands: [sts.java.javadoc]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.799
+!MESSAGE Static Commands: [sts.java.type]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.800
+!MESSAGE Non-Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.800
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.800
+!MESSAGE Non-Static Commands: [sts.java.javadocHoverLink]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.801
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.801
+!MESSAGE Non-Static Commands: [sts.java.location]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.801
+!MESSAGE Static Commands: [sts.java.search.packages, sts.java.search.types]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.802
+!MESSAGE Non-Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.802
+!MESSAGE Static Commands: [sts.java.hierarchy.supertypes, sts.java.hierarchy.subtypes]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.802
+!MESSAGE Non-Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.802
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.802
+!MESSAGE Non-Static Commands: [sts.java.code.completions]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.802
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.803
+!MESSAGE Non-Static Commands: [sts.project.gav]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.804
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.804
+!MESSAGE Non-Static Commands: [java.gradle.delegateTest]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.805
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.805
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.806
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.806
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.checkImportStatus, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.807
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.807
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.807
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.808
+!MESSAGE Non-Static Commands: [java.maven.initializeSearcher, java.maven.searchArtifact, java.maven.addDependency, java.maven.controlContext]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.825
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:05.929
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:08.662
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:12.446
+!MESSAGE Workspace initialized in 6622ms
+
+!ENTRY org.springframework.tooling.jdt.ls.extension 1 0 2024-12-07 02:09:12.462
+!MESSAGE Boot project ADDED: demo
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:12.466
+!MESSAGE >> initialization job finished
+
+!ENTRY java-debug 1 0 2024-12-07 02:09:12.887
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY org.springframework.tooling.jdt.ls.extension 1 0 2024-12-07 02:09:13.151
+!MESSAGE ClasspathListenerHandler executeCommand sts.java.addClasspathListener, [6cda7d60-a2cc-4651-b151-29827e042150]
+
+!ENTRY org.springframework.tooling.jdt.ls.extension 1 0 2024-12-07 02:09:13.152
+!MESSAGE ClasspathListenerHandler addClasspathListener 6cda7d60-a2cc-4651-b151-29827e042150
+
+!ENTRY org.springframework.tooling.jdt.ls.extension 1 0 2024-12-07 02:09:13.155
+!MESSAGE ClasspathListenerHandler addClasspathListener 6cda7d60-a2cc-4651-b151-29827e042150 => OK
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:13.271
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:14.005
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:14.007
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:14.008
+!MESSAGE Validated 1. Took 136 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:14.035
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:14.036
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:14.038
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.springframework.tooling.jdt.ls.extension 1 0 2024-12-07 02:09:15.483
+!MESSAGE ClasspathListenerHandler executeCommand sts.java.addClasspathListener, [sts4.classpath.RKviZFKg]
+
+!ENTRY org.springframework.tooling.jdt.ls.extension 1 0 2024-12-07 02:09:15.483
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.RKviZFKg
+
+!ENTRY org.springframework.tooling.jdt.ls.extension 1 0 2024-12-07 02:09:15.484
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.RKviZFKg => OK
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-12-07 02:09:19.575
+!MESSAGE Unable to load IDecompiler class for jarFileContentProvider
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-12-07 02:09:19.831
+!MESSAGE Unable to load IDecompiler class for jarFileContentProvider
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:19.888
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:19.931
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-12-07 02:09:20.083
+!MESSAGE Unable to load IDecompiler class for jarFileContentProvider
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-12-07 02:09:20.123
+!MESSAGE Unable to load IDecompiler class for jarFileContentProvider
+
+!ENTRY org.springframework.tooling.jdt.ls.extension 1 0 2024-12-07 02:09:21.295
+!MESSAGE Classpath changed for project: demo
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:21.394
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:39.612
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:39.639
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-12-07 02:09:42.576
+!MESSAGE Unable to load IDecompiler class for jarFileContentProvider
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-12-07 02:09:42.658
+!MESSAGE Unable to load IDecompiler class for jarFileContentProvider
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-12-07 02:09:42.921
+!MESSAGE Unable to load IDecompiler class for jarFileContentProvider
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-12-07 02:09:42.951
+!MESSAGE Unable to load IDecompiler class for jarFileContentProvider
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-12-07 02:09:43.396
+!MESSAGE Unable to load IDecompiler class for jarFileContentProvider
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-12-07 02:09:43.400
+!MESSAGE Unable to load IDecompiler class for jarFileContentProvider
+
+!ENTRY org.springframework.tooling.jdt.ls.extension 1 0 2024-12-07 02:09:43.483
+!MESSAGE Classpath changed for project: demo
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:43.605
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:44.287
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:44.708
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:44.708
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:44.709
+!MESSAGE Validated 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:45.821
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:45.835
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:45.887
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:45.901
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:50.620
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:09:50.641
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:20.516
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:20.937
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:20.937
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:20.938
+!MESSAGE Validated 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:21.618
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:22.039
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:22.039
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:22.039
+!MESSAGE Validated 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:23.376
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:23.389
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:23.537
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:23.548
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:23.982
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:23.983
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:23.983
+!MESSAGE Validated 1. Took 29 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:24.354
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:24.767
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:24.767
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:24.767
+!MESSAGE Validated 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:25.618
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:25.679
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:26.100
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:26.100
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:26.100
+!MESSAGE Validated 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:26.338
+!MESSAGE Reconciled 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:26.752
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:26.752
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:26.753
+!MESSAGE Validated 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:28.566
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:28.985
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:28.985
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:28.986
+!MESSAGE Validated 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:29.135
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:29.563
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:29.563
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:29.564
+!MESSAGE Validated 1. Took 26 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:31.015
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:31.085
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:31.206
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:31.218
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:31.356
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:31.367
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:31.534
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:31.545
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:31.966
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:31.966
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:31.967
+!MESSAGE Validated 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:32.222
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:32.232
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:32.418
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:32.482
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:32.589
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:32.636
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:32.784
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:32.848
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:32.955
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:32.967
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:33.384
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:33.385
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:33.386
+!MESSAGE Validated 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:33.724
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:33.745
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:33.906
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:33.917
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:34.338
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:34.338
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:34.339
+!MESSAGE Validated 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:35.013
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:35.436
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:35.436
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:10:35.436
+!MESSAGE Validated 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:11:42.183
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:11:42.622
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:11:42.622
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:11:42.623
+!MESSAGE Validated 1. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:11:45.203
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:11:45.624
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:11:45.625
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:11:45.625
+!MESSAGE Validated 1. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:13:50.491
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:13:50.929
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:13:50.930
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:13:50.930
+!MESSAGE Validated 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:13:56.353
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:13:56.363
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:13:56.822
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:13:56.834
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:14:03.894
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:14:03.901
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:14:04.303
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:14:04.314
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:14:04.723
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:14:04.738
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:14:04.757
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:14:04.831
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:14:06.375
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:14:06.379
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:14:09.382
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:14:09.386
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:14:13.085
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:14:13.089
+!MESSAGE ClassFile contents request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:15:42.743
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:15:43.167
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:15:43.167
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:15:43.167
+!MESSAGE Validated 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:15:44.432
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:15:44.851
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:15:44.851
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:15:44.852
+!MESSAGE Validated 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:15:46.344
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:15:46.766
+!MESSAGE begin problem for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:15:46.767
+!MESSAGE 0 problems reported for /DemoApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:15:46.767
+!MESSAGE Validated 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:28:20.155
+!MESSAGE >> java/validateDocument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:28:21.865
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:28:21.902
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:28:22.009
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-12-07 02:28:22.031
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

@@ -1,0 +1,8 @@
+ERROR:27:シンボルを見つけられません\n  シンボル\d   メソッド getConcurrent()\n  場所\d タイプcom.ican.entity.Taskの変数 task
+ERROR:52:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Taskの変数 task
+ERROR:53:シンボルを見つけられません\n  シンボル\d   メソッド getTaskGroup()\n  場所\d タイプcom.ican.entity.Taskの変数 task
+ERROR:56:シンボルを見つけられません\n  シンボル\d   メソッド getCronExpression()\n  場所\d タイプcom.ican.entity.Taskの変数 task
+ERROR:70:シンボルを見つけられません\n  シンボル\d   メソッド getStatus()\n  場所\d タイプcom.ican.entity.Taskの変数 task
+ERROR:70:シンボルを見つけられません\n  シンボル\d   メソッド getStatus()\n  場所\d タイプcom.ican.enums.TaskStatusEnumの変数 PAUSE
+ERROR:82:シンボルを見つけられません\n  シンボル\d   メソッド getMisfirePolicy()\n  場所\d タイプcom.ican.entity.Taskの変数 task
+ERROR:92:シンボルを見つけられません\n  シンボル\d   メソッド getMisfirePolicy()\n  場所\d タイプcom.ican.entity.Taskの変数 task

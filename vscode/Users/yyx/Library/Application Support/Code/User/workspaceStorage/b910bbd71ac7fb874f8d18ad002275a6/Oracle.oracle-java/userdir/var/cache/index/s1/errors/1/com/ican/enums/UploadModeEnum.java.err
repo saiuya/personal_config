@@ -1,0 +1,8 @@
+ERROR:18:列挙 com.ican.enums.UploadModeEnumのコンストラクタ UploadModeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    java.lang.String,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:23:列挙 com.ican.enums.UploadModeEnumのコンストラクタ UploadModeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    java.lang.String,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:28:列挙 com.ican.enums.UploadModeEnumのコンストラクタ UploadModeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    java.lang.String,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:33:列挙 com.ican.enums.UploadModeEnumのコンストラクタ UploadModeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    java.lang.String,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:53:シンボルを見つけられません\n  シンボル\d   メソッド getMode()\n  場所\d タイプcom.ican.enums.UploadModeEnumの変数 value
+ERROR:54:列挙 com.ican.enums.UploadModeEnumのメソッド getStrategyは指定された型に適用できません。\n  期待値\d java.lang.String\n  検出値\d    引数がありません\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:38:変数modeは、デフォルト・コンストラクタで初期化されていません
+ERROR:43:変数strategyは、デフォルト・コンストラクタで初期化されていません

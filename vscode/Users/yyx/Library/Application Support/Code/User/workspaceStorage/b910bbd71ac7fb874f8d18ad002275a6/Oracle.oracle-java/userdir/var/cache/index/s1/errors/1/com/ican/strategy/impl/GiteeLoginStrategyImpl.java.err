@@ -1,0 +1,15 @@
+ERROR:41:シンボルを見つけられません\n  シンボル\d   メソッド getCode()\n  場所\d タイプcom.ican.model.vo.request.CodeReqの変数 codeReq
+ERROR:43:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.dto.SocialTokenDTO
+ERROR:44:シンボルを見つけられません\n  シンボル\d   メソッド getAccess_token()\n  場所\d タイプcom.ican.model.dto.TokenDTOの変数 giteeToken
+ERROR:45:シンボルを見つけられません\n  シンボル\d   メソッド getLoginType()\n  場所\d タイプcom.ican.enums.LoginTypeEnumの変数 GITEE
+ERROR:53:シンボルを見つけられません\n  シンボル\d   メソッド getAccessToken()\n  場所\d タイプcom.ican.model.dto.SocialTokenDTOの変数 socialToken
+ERROR:55:シンボルを見つけられません\n  シンボル\d   メソッド getUserInfoUrl()\n  場所\d タイプcom.ican.config.properties.GiteePropertiesの変数 giteeProperties
+ERROR:57:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.dto.SocialUserInfoDTO
+ERROR:58:シンボルを見つけられません\n  シンボル\d   メソッド getAvatar_url()\n  場所\d クラス com.ican.model.dto.GitUserInfoDTO
+ERROR:59:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.dto.GitUserInfoDTOの変数 gitUserInfoDTO
+ERROR:60:シンボルを見つけられません\n  シンボル\d   メソッド getName()\n  場所\d タイプcom.ican.model.dto.GitUserInfoDTOの変数 gitUserInfoDTO
+ERROR:73:シンボルを見つけられません\n  シンボル\d   メソッド getClientId()\n  場所\d タイプcom.ican.config.properties.GiteePropertiesの変数 giteeProperties
+ERROR:74:シンボルを見つけられません\n  シンボル\d   メソッド getClientSecret()\n  場所\d タイプcom.ican.config.properties.GiteePropertiesの変数 giteeProperties
+ERROR:75:シンボルを見つけられません\n  シンボル\d   メソッド getGrantType()\n  場所\d タイプcom.ican.config.properties.GiteePropertiesの変数 giteeProperties
+ERROR:76:シンボルを見つけられません\n  シンボル\d   メソッド getRedirectUri()\n  場所\d タイプcom.ican.config.properties.GiteePropertiesの変数 giteeProperties
+ERROR:79:シンボルを見つけられません\n  シンボル\d   メソッド getAccessTokenUrl()\n  場所\d タイプcom.ican.config.properties.GiteePropertiesの変数 giteeProperties

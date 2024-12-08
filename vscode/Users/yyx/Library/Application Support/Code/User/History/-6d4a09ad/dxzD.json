@@ -1,0 +1,18 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#501F04",
+    "titleBar.activeBackground": "#702B05",
+    "titleBar.activeForeground": "#FFFBF9"
+  },
+  "editor.gotoLocation.alternativeDeclarationCommand": "editor.action.revealDefinition",
+  "editor.gotoLocation.alternativeDefinitionCommand": "editor.action.revealDefinition",
+  "editor.gotoLocation.alternativeTypeDefinitionCommand": "editor.action.revealDefinition",
+  "editor.selectionHighlight": false,
+  "files.autoSave": "onFocusChange",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "on"
+  }
+}

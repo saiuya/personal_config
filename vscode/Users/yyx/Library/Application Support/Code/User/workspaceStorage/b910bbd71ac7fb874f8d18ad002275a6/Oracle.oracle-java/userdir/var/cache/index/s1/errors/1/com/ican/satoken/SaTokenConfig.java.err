@@ -1,0 +1,2 @@
+ERROR:98:シンボルを見つけられません\n  シンボル\d   メソッド getCode()\n  場所\d タイプcom.ican.enums.StatusCodeEnumの変数 UNAUTHORIZED
+ERROR:98:シンボルを見つけられません\n  シンボル\d   メソッド getMsg()\n  場所\d タイプcom.ican.enums.StatusCodeEnumの変数 UNAUTHORIZED

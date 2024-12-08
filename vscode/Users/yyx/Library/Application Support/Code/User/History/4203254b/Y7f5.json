@@ -1,0 +1,19 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#1E330D",
+        "titleBar.activeBackground": "#2A4812",
+        "titleBar.activeForeground": "#F5FBF1"
+    },
+    "i18n-ally.localesPaths": [],
+    "editor.gotoLocation.alternativeDeclarationCommand": "editor.action.revealDefinition",
+    "editor.gotoLocation.alternativeDefinitionCommand": "editor.action.revealDefinition",
+    "editor.gotoLocation.alternativeTypeDefinitionCommand": "editor.action.revealDefinition",
+    "editor.selectionHighlight": false,
+    "files.autoSave": "onFocusChange",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": "on"
+    }
+}

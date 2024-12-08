@@ -1,0 +1,1 @@
+ERROR:28:シンボルを見つけられません\n  シンボル\d   メソッド getStrategy()\n  場所\d タイプcom.ican.enums.LikeTypeEnumの変数 likeType

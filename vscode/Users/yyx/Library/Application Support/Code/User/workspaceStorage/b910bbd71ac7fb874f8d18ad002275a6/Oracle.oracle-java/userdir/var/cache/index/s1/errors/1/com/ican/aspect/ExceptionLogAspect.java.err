@@ -1,0 +1,13 @@
+ERROR:63:シンボルを見つけられません\n  シンボル\d   メソッド setModule(java.lang.String)\n  場所\d タイプcom.ican.entity.ExceptionLogの変数 exceptionLog
+ERROR:65:シンボルを見つけられません\n  シンボル\d   メソッド setUri(java.lang.String)\n  場所\d タイプcom.ican.entity.ExceptionLogの変数 exceptionLog
+ERROR:67:シンボルを見つけられません\n  シンボル\d   メソッド setName(java.lang.String)\n  場所\d タイプcom.ican.entity.ExceptionLogの変数 exceptionLog
+ERROR:69:シンボルを見つけられません\n  シンボル\d   メソッド setDescription(java.lang.String)\n  場所\d タイプcom.ican.entity.ExceptionLogの変数 exceptionLog
+ERROR:76:シンボルを見つけられません\n  シンボル\d   メソッド setErrorMethod(java.lang.String)\n  場所\d タイプcom.ican.entity.ExceptionLogの変数 exceptionLog
+ERROR:78:シンボルを見つけられません\n  シンボル\d   メソッド setMessage(java.lang.String)\n  場所\d タイプcom.ican.entity.ExceptionLogの変数 exceptionLog
+ERROR:81:シンボルを見つけられません\n  シンボル\d   メソッド setParams(java.lang.String)\n  場所\d タイプcom.ican.entity.ExceptionLogの変数 exceptionLog
+ERROR:83:シンボルを見つけられません\n  シンボル\d   メソッド setParams(java.lang.String)\n  場所\d タイプcom.ican.entity.ExceptionLogの変数 exceptionLog
+ERROR:86:シンボルを見つけられません\n  シンボル\d   メソッド setRequestMethod(java.lang.String)\n  場所\d タイプcom.ican.entity.ExceptionLogの変数 exceptionLog
+ERROR:89:シンボルを見つけられません\n  シンボル\d   メソッド setIpAddress(java.lang.String)\n  場所\d タイプcom.ican.entity.ExceptionLogの変数 exceptionLog
+ERROR:90:シンボルを見つけられません\n  シンボル\d   メソッド setIpSource(java.lang.String)\n  場所\d タイプcom.ican.entity.ExceptionLogの変数 exceptionLog
+ERROR:93:シンボルを見つけられません\n  シンボル\d   メソッド setOs(java.lang.String)\n  場所\d タイプcom.ican.entity.ExceptionLogの変数 exceptionLog
+ERROR:94:シンボルを見つけられません\n  シンボル\d   メソッド setBrowser(java.lang.String)\n  場所\d タイプcom.ican.entity.ExceptionLogの変数 exceptionLog

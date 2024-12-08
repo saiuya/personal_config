@@ -1,0 +1,5 @@
+setuptools~=67.6.1
+srtranslator~=0.2.2
+torchaudio
+openai-whisper
+torch torchvision 

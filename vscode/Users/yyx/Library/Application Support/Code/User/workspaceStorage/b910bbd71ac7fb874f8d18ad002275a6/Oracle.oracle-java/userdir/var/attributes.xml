@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="|Users|yyx|.m2|repository|cn|dev33|sa-token-core|1.37.0|sa-token-core-1.37.0-javadoc.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7b3014378"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|cn|dev33|sa-token-core|1.37.0|sa-token-core-1.37.0-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7a050ca78"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|com|baomidou|mybatis-plus-core|3.5.2|mybatis-plus-core-3.5.2-javadoc.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7b310ac78"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|com|baomidou|mybatis-plus-core|3.5.2|mybatis-plus-core-3.5.2-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7b2eda778"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|com|fasterxml|jackson|core|jackson-databind|2.13.4.2|jackson-databind-2.13.4.2-javadoc.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7b329e978"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|com|fasterxml|jackson|core|jackson-databind|2.13.4.2|jackson-databind-2.13.4.2-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7b323f878"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|io|swagger|swagger-annotations|1.5.22|swagger-annotations-1.5.22-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7a0512278"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|io|swagger|swagger-models|1.5.22|swagger-models-1.5.22-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7a0511a78"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|jakarta|validation|jakarta.validation-api|2.0.2|jakarta.validation-api-2.0.2-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7a0509a78"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|nl|basjes|parse|useragent|yauaa|7.19.1|yauaa-7.19.1-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7a0513e78"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|org|apiguardian|apiguardian-api|1.0.0|apiguardian-api-1.0.0-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7a0515178"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|org|jetbrains|annotations|13.0|annotations-13.0-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7a0510e78"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|org|quartz-scheduler|quartz|2.3.2|quartz-2.3.2-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7a050b478"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|org|springframework|boot|spring-boot-autoconfigure|2.6.14|spring-boot-autoconfigure-2.6.14-javadoc.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7b137a978"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|org|springframework|boot|spring-boot-autoconfigure|2.6.14|spring-boot-autoconfigure-2.6.14-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7a050fb78"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|org|springframework|boot|spring-boot|2.6.14|spring-boot-2.6.14-javadoc.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7b13a3478"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|org|springframework|boot|spring-boot|2.6.14|spring-boot-2.6.14-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7b1351a78"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|org|springframework|spring-beans|5.3.24|spring-beans-5.3.24-javadoc.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7b3147d78"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|org|springframework|spring-beans|5.3.24|spring-beans-5.3.24-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7a0506a78"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|org|springframework|spring-context|5.3.24|spring-context-5.3.24-javadoc.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7b1304e78"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|org|springframework|spring-context|5.3.24|spring-context-5.3.24-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7a0507878"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|org|springframework|spring-web|5.3.24|spring-web-5.3.24-javadoc.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7b34b6478"/>
+    </fileobject>
+    <fileobject name="|Users|yyx|.m2|repository|org|springframework|spring-web|5.3.24|spring-web-5.3.24-sources.jar">
+        <attr name="lastRootCheckStamp" serialvalue="aced00057372000e6a6176612e7574696c2e44617465686a81014b5974190300007870770800000190f7b3446478"/>
+    </fileobject>
+</attributes>

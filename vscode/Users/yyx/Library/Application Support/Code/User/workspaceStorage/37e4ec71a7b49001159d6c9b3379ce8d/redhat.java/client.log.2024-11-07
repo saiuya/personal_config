@@ -1,0 +1,91 @@
+{
+  message: "Use the JDK from '' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2024-11-07 18:12:46.672'
+}
+{
+  message: 'Starting Java server with: /Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/jre/17.0.13-macosx-aarch64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/lombok/lombok-1.18.35.jar -jar /Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /Users/yyx/Library/Application Support/Code/User/globalStorage/redhat.java/1.36.0/config_ss_mac -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/37e4ec71a7b49001159d6c9b3379ce8d/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2024-11-07 18:12:46.717'
+}
+{
+  message: 'Starting Java server with: /Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/jre/17.0.13-macosx-aarch64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/lombok/lombok-1.18.35.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/Users/yyx/Library/Application Support/Code/User/workspaceStorage/37e4ec71a7b49001159d6c9b3379ce8d/redhat.java -Daether.dependencyCollector.impl=bf -jar /Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /Users/yyx/Library/Application Support/Code/User/globalStorage/redhat.java/1.36.0/config_mac -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/37e4ec71a7b49001159d6c9b3379ce8d/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2024-11-07 18:12:46.768'
+}
+{
+  message: 'Nov 07, 2024 6:12:49 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-11-07 18:12:49.532'
+}
+{
+  message: 'Nov 07, 2024 6:12:49 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-11-07 18:12:49.547'
+}
+{
+  message: '[Error - 6:13:48 PM] Nov 7, 2024, 6:13:48 PM Failed to read package name from file:///Users/yyx/Downloads/KotlinSwift/.gradle/8.9/dependencies-accessors/f54ddec1303f323247cdf95c87485ee1ef36e07b-010e7b3d-0016-4728-8d10-b119b916d374/sources/org/gradle/accessors/dm/LibrariesForLibs.java\n' +
+    '/Users/yyx/Downloads/KotlinSwift/.gradle/8.9/dependencies-accessors/f54ddec1303f323247cdf95c87485ee1ef36e07b-010e7b3d-0016-4728-8d10-b119b916d374/sources/org/gradle/accessors/dm/LibrariesForLibs.java\n' +
+    'java.nio.file.NoSuchFileException: /Users/yyx/Downloads/KotlinSwift/.gradle/8.9/dependencies-accessors/f54ddec1303f323247cdf95c87485ee1ef36e07b-010e7b3d-0016-4728-8d10-b119b916d374/sources/org/gradle/accessors/dm/LibrariesForLibs.java\n' +
+    '\tat java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source)\n' +
+    '\tat java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)\n' +
+    '\tat java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)\n' +
+    '\tat java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(Unknown Source)\n' +
+    '\tat java.base/java.nio.file.Files.newByteChannel(Unknown Source)\n' +
+    '\tat java.base/java.nio.file.Files.newByteChannel(Unknown Source)\n' +
+    '\tat java.base/java.nio.file.Files.readAllBytes(Unknown Source)\n' +
+    '\tat java.base/java.nio.file.Files.readString(Unknown Source)\n' +
+    '\tat java.base/java.nio.file.Files.readString(Unknown Source)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.getPackageName(JDTUtils.java:336)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.getFakeCompilationUnit(JDTUtils.java:300)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:201)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:181)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.handleFileEvent(WorkspaceEventsHandler.java:116)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.lambda$0(WorkspaceEventsHandler.java:65)\n' +
+    '\tat java.base/java.lang.Thread.run(Unknown Source)\n',
+  level: 'info',
+  timestamp: '2024-11-07 18:13:48.802'
+}
+{
+  message: '[Error - 6:13:48 PM] Nov 7, 2024, 6:13:48 PM Failed to create linked resource from file:///Users/yyx/Downloads/KotlinSwift/.gradle/8.9/dependencies-accessors/f54ddec1303f323247cdf95c87485ee1ef36e07b-010e7b3d-0016-4728-8d10-b119b916d374/sources/org/gradle/accessors/dm/LibrariesForLibs.java to jdt.ls-java-project\n' +
+    "Cannot create linked resource.  Local location '/Users/yyx/Downloads/KotlinSwift/.gradle/8.9/dependencies-accessors/f54ddec1303f323247cdf95c87485ee1ef36e07b-010e7b3d-0016-4728-8d10-b119b916d374/sources/org/gradle/accessors/dm/LibrariesForLibs.java' does not exist.\n" +
+    "org.eclipse.core.internal.resources.ResourceException(/jdt.ls-java-project/src/LibrariesForLibs.java)[269]: java.lang.Exception: Cannot create linked resource.  Local location '/Users/yyx/Downloads/KotlinSwift/.gradle/8.9/dependencies-accessors/f54ddec1303f323247cdf95c87485ee1ef36e07b-010e7b3d-0016-4728-8d10-b119b916d374/sources/org/gradle/accessors/dm/LibrariesForLibs.java' does not exist.\n" +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.resources.Resource.assertLinkRequirements(Resource.java:218)\n' +
+    '\tat org.eclipse.core.internal.resources.Resource.createLink(Resource.java:671)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.getFakeCompilationUnit(JDTUtils.java:309)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:201)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:181)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.handleFileEvent(WorkspaceEventsHandler.java:116)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.lambda$0(WorkspaceEventsHandler.java:65)\n' +
+    '\tat java.base/java.lang.Thread.run(Unknown Source)\n',
+  level: 'info',
+  timestamp: '2024-11-07 18:13:48.887'
+}
+{
+  message: '[Error - 6:14:57 PM] Nov 7, 2024, 6:14:57 PM Cannot download Gradle sha256 checksum: https://services.gradle.org/distributions-snapshots/gradle-8.10-20240727004415+0000-wrapper.jar.sha256\n' +
+    'https://downloads.gradle.org/distributions-snapshots/gradle-8.10-20240727004415+0000-wrapper.jar.sha256\n' +
+    'java.io.FileNotFoundException: https://downloads.gradle.org/distributions-snapshots/gradle-8.10-20240727004415+0000-wrapper.jar.sha256\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)\n' +
+    '\tat org.eclipse.jdt.ls.internal.gradle.checksums.DownloadChecksumJob.run(DownloadChecksumJob.java:77)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2024-11-07 18:14:57.468'
+}
+{
+  message: '[Error - 6:14:58 PM] Nov 7, 2024, 6:14:58 PM Cannot download Gradle sha256 checksum: https://services.gradle.org/distributions-snapshots/gradle-8.9-20240707014048+0000-wrapper.jar.sha256\n' +
+    'https://downloads.gradle.org/distributions-snapshots/gradle-8.9-20240707014048+0000-wrapper.jar.sha256\n' +
+    'java.io.FileNotFoundException: https://downloads.gradle.org/distributions-snapshots/gradle-8.9-20240707014048+0000-wrapper.jar.sha256\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)\n' +
+    '\tat org.eclipse.jdt.ls.internal.gradle.checksums.DownloadChecksumJob.run(DownloadChecksumJob.java:77)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2024-11-07 18:14:58.961'
+}

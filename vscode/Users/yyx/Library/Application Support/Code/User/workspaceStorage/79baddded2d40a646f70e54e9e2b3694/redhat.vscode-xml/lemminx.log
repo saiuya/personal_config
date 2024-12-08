@@ -1,0 +1,15 @@
+Dec 07, 2024 2:09:04 AM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.28.0
+ - Java : /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+ - VM Version : 21.0.2
+ - Git 9c3a0f1 - [maven-release-plugin] prepare release 0.28.0
+Dec 07, 2024 2:09:04 AM org.eclipse.lemminx.uriresolver.CacheResourcesManager lambda$downloadResource$0
+INFO: Downloading https://maven.apache.org/xsd/maven-4.0.0.xsd to /Users/yyx/.lemminx/cache/https/maven.apache.org/xsd/maven-4.0.0.xsd...
+Dec 07, 2024 2:09:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Dec 07, 2024 2:09:05 AM org.eclipse.lemminx.uriresolver.CacheResourcesManager lambda$downloadResource$0
+INFO: Downloaded https://maven.apache.org/xsd/maven-4.0.0.xsd to /Users/yyx/.lemminx/cache/https/maven.apache.org/xsd/maven-4.0.0.xsd in 565ms
+Dec 07, 2024 2:09:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16

@@ -1,0 +1,17 @@
+ERROR:49:シンボルを見つけられません\n  シンボル\d   メソッド getKeyword()\n  場所\d タイプcom.ican.model.vo.query.AlbumQueryの変数 albumQuery
+ERROR:49:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getAlbumName()\n    場所\d クラス com.ican.entity.Album
+ERROR:49:シンボルを見つけられません\n  シンボル\d   メソッド getKeyword()\n  場所\d タイプcom.ican.model.vo.query.AlbumQueryの変数 albumQuery
+ERROR:55:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)
+ERROR:61:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Album
+ERROR:62:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getAlbumName()\n    場所\d クラス com.ican.entity.Album
+ERROR:62:シンボルを見つけられません\n  シンボル\d   メソッド getAlbumName()\n  場所\d タイプcom.ican.model.vo.request.AlbumReqの変数 album
+ERROR:63:シンボルを見つけられません\n  シンボル\d   メソッド getAlbumName()\n  場所\d タイプcom.ican.model.vo.request.AlbumReqの変数 album
+ERROR:72:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getAlbumId()\n    場所\d クラス com.ican.entity.Photo
+ERROR:81:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Album
+ERROR:82:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getAlbumName()\n    場所\d クラス com.ican.entity.Album
+ERROR:82:シンボルを見つけられません\n  シンボル\d   メソッド getAlbumName()\n  場所\d タイプcom.ican.model.vo.request.AlbumReqの変数 album
+ERROR:83:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Albumの変数 existAlbum
+ERROR:83:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.AlbumReqの変数 album
+ERROR:84:シンボルを見つけられません\n  シンボル\d   メソッド getAlbumName()\n  場所\d タイプcom.ican.model.vo.request.AlbumReqの変数 album
+ERROR:100:シンボルを見つけられません\n  シンボル\d   メソッド getPath()\n  場所\d タイプcom.ican.enums.FilePathEnumの変数 PHOTO
+ERROR:101:シンボルを見つけられません\n  シンボル\d   メソッド getFilePath()\n  場所\d タイプcom.ican.enums.FilePathEnumの変数 PHOTO

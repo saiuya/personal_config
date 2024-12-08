@@ -1,0 +1,113 @@
+{
+  message: "Use the JDK from '' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2024-10-19 21:59:10.164'
+}
+{
+  message: 'Removing workspace storage folder : /Users/yyx/Library/Application Support/Code/User/workspaceStorage/e77d27d90ed37bd1644da2d508395cbe/redhat.java',
+  level: 'info',
+  timestamp: '2024-10-19 21:59:10.181'
+}
+{
+  message: 'Starting Java server with: /Users/yyx/.vscode/extensions/redhat.java-1.35.1-darwin-arm64/jre/17.0.12-macosx-aarch64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/Users/yyx/.vscode/extensions/redhat.java-1.35.1-darwin-arm64/lombok/lombok-1.18.33.jar -jar /Users/yyx/.vscode/extensions/redhat.java-1.35.1-darwin-arm64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /Users/yyx/Library/Application Support/Code/User/globalStorage/redhat.java/1.35.1/config_ss_mac -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/56e95295698387bbe9a298cce8a55bc2/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2024-10-19 21:59:10.287'
+}
+{
+  message: 'Starting Java server with: /Users/yyx/.vscode/extensions/redhat.java-1.35.1-darwin-arm64/jre/17.0.12-macosx-aarch64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/Users/yyx/.vscode/extensions/redhat.java-1.35.1-darwin-arm64/lombok/lombok-1.18.33.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/Users/yyx/Library/Application Support/Code/User/workspaceStorage/56e95295698387bbe9a298cce8a55bc2/redhat.java -Daether.dependencyCollector.impl=bf -jar /Users/yyx/.vscode/extensions/redhat.java-1.35.1-darwin-arm64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /Users/yyx/Library/Application Support/Code/User/globalStorage/redhat.java/1.35.1/config_mac -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/56e95295698387bbe9a298cce8a55bc2/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2024-10-19 21:59:10.405'
+}
+{
+  message: 'Oct 19, 2024 9:59:12 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-10-19 21:59:12.209'
+}
+{
+  message: 'Oct 19, 2024 9:59:12 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-10-19 21:59:12.212'
+}
+{
+  message: '[Warn  - 9:59:14 PM] Oct 19, 2024, 9:59:14 PM Could not load Gradle version information\n' +
+    'Cannot download published Gradle versions.\n' +
+    'org.gradle.api.UncheckedIOException: Cannot download published Gradle versions.\n' +
+    '\tat org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.downloadVersionInformation(PublishedGradleVersions.java:167)\n' +
+    '\tat org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.tryToDownloadAndCacheVersions(PublishedGradleVersions.java:151)\n' +
+    '\tat org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.create(PublishedGradleVersions.java:111)\n' +
+    '\tat org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersionsWrapper$LoadVersionsJob.run(PublishedGradleVersionsWrapper.java:73)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n' +
+    'Caused by: java.net.UnknownHostException: services.gradle.org\n' +
+    '\tat java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)\n' +
+    '\tat java.base/java.net.SocksSocketImpl.connect(Unknown Source)\n' +
+    '\tat java.base/java.net.Socket.connect(Unknown Source)\n' +
+    '\tat java.base/sun.security.ssl.SSLSocketImpl.connect(Unknown Source)\n' +
+    '\tat java.base/sun.net.NetworkClient.doConnect(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.http.HttpClient.openServer(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.http.HttpClient.openServer(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.HttpsClient.<init>(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.HttpsClient.New(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)\n' +
+    '\tat org.eclipse.buildship.core.internal.util.gradle.PublishedGradleVersions.downloadVersionInformation(PublishedGradleVersions.java:164)\n' +
+    '\t... 4 more\n',
+  level: 'info',
+  timestamp: '2024-10-19 21:59:14.709'
+}
+{
+  message: '[Error - 9:59:15 PM] Oct 19, 2024, 9:59:15 PM Cannot download Gradle sha256 checksum: https://services.gradle.org/distributions-snapshots/gradle-8.10-20240727004415+0000-wrapper.jar.sha256\n' +
+    'services.gradle.org\n' +
+    'java.net.UnknownHostException: services.gradle.org\n' +
+    '\tat java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)\n' +
+    '\tat java.base/java.net.SocksSocketImpl.connect(Unknown Source)\n' +
+    '\tat java.base/java.net.Socket.connect(Unknown Source)\n' +
+    '\tat java.base/sun.security.ssl.SSLSocketImpl.connect(Unknown Source)\n' +
+    '\tat java.base/sun.net.NetworkClient.doConnect(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.http.HttpClient.openServer(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.http.HttpClient.openServer(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.HttpsClient.<init>(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.HttpsClient.New(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)\n' +
+    '\tat org.eclipse.jdt.ls.internal.gradle.checksums.DownloadChecksumJob.run(DownloadChecksumJob.java:77)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2024-10-19 21:59:15.526'
+}
+{
+  message: '[Error - 9:59:15 PM] Oct 19, 2024, 9:59:15 PM Cannot download Gradle sha256 checksum: https://services.gradle.org/distributions-snapshots/gradle-8.9-20240707014048+0000-wrapper.jar.sha256\n' +
+    'services.gradle.org\n' +
+    'java.net.UnknownHostException: services.gradle.org\n' +
+    '\tat java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)\n' +
+    '\tat java.base/java.net.SocksSocketImpl.connect(Unknown Source)\n' +
+    '\tat java.base/java.net.Socket.connect(Unknown Source)\n' +
+    '\tat java.base/sun.security.ssl.SSLSocketImpl.connect(Unknown Source)\n' +
+    '\tat java.base/sun.net.NetworkClient.doConnect(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.http.HttpClient.openServer(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.http.HttpClient.openServer(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.HttpsClient.<init>(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.HttpsClient.New(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)\n' +
+    '\tat java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)\n' +
+    '\tat org.eclipse.jdt.ls.internal.gradle.checksums.DownloadChecksumJob.run(DownloadChecksumJob.java:77)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2024-10-19 21:59:15.528'
+}

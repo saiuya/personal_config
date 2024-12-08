@@ -1,0 +1,238 @@
+{
+  message: "Use the JDK from '' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2024-11-03 22:45:03.297'
+}
+{
+  message: 'Starting Java server with: /Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/jre/17.0.13-macosx-aarch64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/lombok/lombok-1.18.35.jar -jar /Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /Users/yyx/Library/Application Support/Code/User/globalStorage/redhat.java/1.36.0/config_ss_mac -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/84fc1d4831a6628f8a7622dc78c865f8/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2024-11-03 22:45:03.354'
+}
+{
+  message: 'Starting Java server with: /Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/jre/17.0.13-macosx-aarch64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/lombok/lombok-1.18.35.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/Users/yyx/Library/Application Support/Code/User/workspaceStorage/84fc1d4831a6628f8a7622dc78c865f8/redhat.java -Daether.dependencyCollector.impl=bf -jar /Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /Users/yyx/Library/Application Support/Code/User/globalStorage/redhat.java/1.36.0/config_mac -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/84fc1d4831a6628f8a7622dc78c865f8/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2024-11-03 22:45:03.399'
+}
+{
+  message: 'Nov 03, 2024 10:45:04 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-11-03 22:45:04.635'
+}
+{
+  message: 'Nov 03, 2024 10:45:04 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-11-03 22:45:04.638'
+}
+{
+  message: '[Error - 10:45:27 PM] Nov 3, 2024, 10:45:27 PM Failed to read package name from file:///Users/yyx/Downloads/kotlin_test/.gradle/8.10.2/dependencies-accessors/c5d5847289c8f85f933574edaa347901303e4948-7d6bfe96-481a-4510-a172-c47b2f5b68a8/sources/org/gradle/accessors/dm/LibrariesForLibs.java\n' +
+    '/Users/yyx/Downloads/kotlin_test/.gradle/8.10.2/dependencies-accessors/c5d5847289c8f85f933574edaa347901303e4948-7d6bfe96-481a-4510-a172-c47b2f5b68a8/sources/org/gradle/accessors/dm/LibrariesForLibs.java\n' +
+    'java.nio.file.NoSuchFileException: /Users/yyx/Downloads/kotlin_test/.gradle/8.10.2/dependencies-accessors/c5d5847289c8f85f933574edaa347901303e4948-7d6bfe96-481a-4510-a172-c47b2f5b68a8/sources/org/gradle/accessors/dm/LibrariesForLibs.java\n' +
+    '\tat java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source)\n' +
+    '\tat java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)\n' +
+    '\tat java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)\n' +
+    '\tat java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(Unknown Source)\n' +
+    '\tat java.base/java.nio.file.Files.newByteChannel(Unknown Source)\n' +
+    '\tat java.base/java.nio.file.Files.newByteChannel(Unknown Source)\n' +
+    '\tat java.base/java.nio.file.Files.readAllBytes(Unknown Source)\n' +
+    '\tat java.base/java.nio.file.Files.readString(Unknown Source)\n' +
+    '\tat java.base/java.nio.file.Files.readString(Unknown Source)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.getPackageName(JDTUtils.java:336)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.getFakeCompilationUnit(JDTUtils.java:300)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:201)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:181)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.handleFileEvent(WorkspaceEventsHandler.java:116)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.lambda$0(WorkspaceEventsHandler.java:65)\n' +
+    '\tat java.base/java.lang.Thread.run(Unknown Source)\n',
+  level: 'info',
+  timestamp: '2024-11-03 22:45:27.312'
+}
+{
+  message: '[Error - 10:45:27 PM] Nov 3, 2024, 10:45:27 PM Failed to create linked resource from file:///Users/yyx/Downloads/kotlin_test/.gradle/8.10.2/dependencies-accessors/c5d5847289c8f85f933574edaa347901303e4948-7d6bfe96-481a-4510-a172-c47b2f5b68a8/sources/org/gradle/accessors/dm/LibrariesForLibs.java to jdt.ls-java-project\n' +
+    "Cannot create linked resource.  Local location '/Users/yyx/Downloads/kotlin_test/.gradle/8.10.2/dependencies-accessors/c5d5847289c8f85f933574edaa347901303e4948-7d6bfe96-481a-4510-a172-c47b2f5b68a8/sources/org/gradle/accessors/dm/LibrariesForLibs.java' does not exist.\n" +
+    "org.eclipse.core.internal.resources.ResourceException(/jdt.ls-java-project/src/LibrariesForLibs.java)[269]: java.lang.Exception: Cannot create linked resource.  Local location '/Users/yyx/Downloads/kotlin_test/.gradle/8.10.2/dependencies-accessors/c5d5847289c8f85f933574edaa347901303e4948-7d6bfe96-481a-4510-a172-c47b2f5b68a8/sources/org/gradle/accessors/dm/LibrariesForLibs.java' does not exist.\n" +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.resources.Resource.assertLinkRequirements(Resource.java:218)\n' +
+    '\tat org.eclipse.core.internal.resources.Resource.createLink(Resource.java:671)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.getFakeCompilationUnit(JDTUtils.java:309)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:201)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:181)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.handleFileEvent(WorkspaceEventsHandler.java:116)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.lambda$0(WorkspaceEventsHandler.java:65)\n' +
+    '\tat java.base/java.lang.Thread.run(Unknown Source)\n',
+  level: 'info',
+  timestamp: '2024-11-03 22:45:27.331'
+}
+{
+  message: '[Error - 10:45:28 PM] Nov 3, 2024, 10:45:28 PM Failed to create linked resource from file:///Users/yyx/Downloads/kotlin_test/.gradle/8.10.2/dependencies-accessors/c5d5847289c8f85f933574edaa347901303e4948-129dbf79-3922-4aa0-a18e-afdd7210c8e0/sources/org/gradle/accessors/dm/LibrariesForLibs.java to jdt.ls-java-project\n' +
+    "Cannot create linked resource.  Local location '/Users/yyx/Downloads/kotlin_test/.gradle/8.10.2/dependencies-accessors/c5d5847289c8f85f933574edaa347901303e4948-129dbf79-3922-4aa0-a18e-afdd7210c8e0/sources/org/gradle/accessors/dm/LibrariesForLibs.java' does not exist.\n" +
+    "org.eclipse.core.internal.resources.ResourceException(/jdt.ls-java-project/src/org/gradle/accessors/dm/LibrariesForLibs.java)[269]: java.lang.Exception: Cannot create linked resource.  Local location '/Users/yyx/Downloads/kotlin_test/.gradle/8.10.2/dependencies-accessors/c5d5847289c8f85f933574edaa347901303e4948-129dbf79-3922-4aa0-a18e-afdd7210c8e0/sources/org/gradle/accessors/dm/LibrariesForLibs.java' does not exist.\n" +
+    '\tat org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)\n' +
+    '\tat org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)\n' +
+    '\tat org.eclipse.core.internal.resources.Resource.assertLinkRequirements(Resource.java:218)\n' +
+    '\tat org.eclipse.core.internal.resources.Resource.createLink(Resource.java:671)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.getFakeCompilationUnit(JDTUtils.java:309)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:201)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:181)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.handleFileEvent(WorkspaceEventsHandler.java:116)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.lambda$0(WorkspaceEventsHandler.java:65)\n' +
+    '\tat java.base/java.lang.Thread.run(Unknown Source)\n',
+  level: 'info',
+  timestamp: '2024-11-03 22:45:28.160'
+}
+{
+  message: 'compile.nullAnalysis.mode set to automatic',
+  level: 'info',
+  timestamp: '2024-11-03 22:46:17.242'
+}
+{
+  message: 'Nov 03, 2024 10:46:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify\n' +
+    'WARNING: Failed to send notification message.\n' +
+    'org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$1(ParentProcessWatcher.java:144)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:88)\n' +
+    '\tat jdk.proxy3/jdk.proxy3.$Proxy10.notifyProgress(Unknown Source)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.ProgressReporterManager$ProgressReporter.sendStatus(ProgressReporterManager.java:269)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.ProgressReporterManager$ProgressReporter.sendProgress(ProgressReporterManager.java:239)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.ProgressReporterManager$ProgressReporter.beginTask(ProgressReporterManager.java:200)\n' +
+    '\tat org.eclipse.core.runtime.SubMonitor.convert(SubMonitor.java:557)\n' +
+    '\tat org.eclipse.core.runtime.SubMonitor.convert(SubMonitor.java:512)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:290)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n' +
+    'Caused by: java.io.IOException: Broken pipe\n' +
+    '\tat java.base/sun.nio.ch.FileDispatcherImpl.write0(Native Method)\n' +
+    '\tat java.base/sun.nio.ch.SocketDispatcher.write(Unknown Source)\n' +
+    '\tat java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(Unknown Source)\n' +
+    '\tat java.base/sun.nio.ch.IOUtil.write(Unknown Source)\n' +
+    '\tat java.base/sun.nio.ch.IOUtil.write(Unknown Source)\n' +
+    '\tat java.base/sun.nio.ch.SocketChannelImpl.write(Unknown Source)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.ConnectionStreamFactory$NamedPipeOutputStream.write(ConnectionStreamFactory.java:238)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)\n' +
+    '\t... 11 more\n' +
+    '\n',
+  level: 'info',
+  timestamp: '2024-11-03 22:46:50.150'
+}
+{
+  message: 'Nov 03, 2024 10:46:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify\n' +
+    'WARNING: Failed to send notification message.\n' +
+    'org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$1(ParentProcessWatcher.java:144)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:88)\n' +
+    '\tat jdk.proxy3/jdk.proxy3.$Proxy10.notifyProgress(Unknown Source)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.ProgressReporterManager$ProgressReporter.sendStatus(ProgressReporterManager.java:290)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.ProgressReporterManager$ProgressReporter.sendProgress(ProgressReporterManager.java:239)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.ProgressReporterManager$ProgressReporter.beginTask(ProgressReporterManager.java:200)\n' +
+    '\tat org.eclipse.core.runtime.SubMonitor.convert(SubMonitor.java:557)\n' +
+    '\tat org.eclipse.core.runtime.SubMonitor.convert(SubMonitor.java:512)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:290)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n' +
+    'Caused by: java.io.IOException: Broken pipe\n' +
+    '\tat java.base/sun.nio.ch.FileDispatcherImpl.write0(Native Method)\n' +
+    '\tat java.base/sun.nio.ch.SocketDispatcher.write(Unknown Source)\n' +
+    '\tat java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(Unknown Source)\n' +
+    '\tat java.base/sun.nio.ch.IOUtil.write(Unknown Source)\n' +
+    '\tat java.base/sun.nio.ch.IOUtil.write(Unknown Source)\n' +
+    '\tat java.base/sun.nio.ch.SocketChannelImpl.write(Unknown Source)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.ConnectionStreamFactory$NamedPipeOutputStream.write(ConnectionStreamFactory.java:238)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)\n' +
+    '\t... 11 more\n' +
+    '\n',
+  level: 'info',
+  timestamp: '2024-11-03 22:46:50.152'
+}
+{
+  message: 'Nov 03, 2024 10:46:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify\n' +
+    'WARNING: Failed to send notification message.\n' +
+    'org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$1(ParentProcessWatcher.java:144)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:88)\n' +
+    '\tat jdk.proxy3/jdk.proxy3.$Proxy10.notifyProgress(Unknown Source)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.ProgressReporterManager$ProgressReporter.sendStatus(ProgressReporterManager.java:290)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.ProgressReporterManager$ProgressReporter.sendProgress(ProgressReporterManager.java:239)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.ProgressReporterManager$ProgressReporter.done(ProgressReporterManager.java:222)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:74)\n' +
+    'Caused by: java.io.IOException: Broken pipe\n' +
+    '\tat java.base/sun.nio.ch.FileDispatcherImpl.write0(Native Method)\n' +
+    '\tat java.base/sun.nio.ch.SocketDispatcher.write(Unknown Source)\n' +
+    '\tat java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(Unknown Source)\n' +
+    '\tat java.base/sun.nio.ch.IOUtil.write(Unknown Source)\n' +
+    '\tat java.base/sun.nio.ch.IOUtil.write(Unknown Source)\n' +
+    '\tat java.base/sun.nio.ch.SocketChannelImpl.write(Unknown Source)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.ConnectionStreamFactory$NamedPipeOutputStream.write(ConnectionStreamFactory.java:238)\n' +
+    '\tat org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)\n' +
+    '\t... 8 more\n' +
+    '\n',
+  level: 'info',
+  timestamp: '2024-11-03 22:46:50.155'
+}
+{
+  message: "Use the JDK from '' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2024-11-03 22:46:53.173'
+}
+{
+  message: 'Starting Java server with: /Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/jre/17.0.13-macosx-aarch64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/lombok/lombok-1.18.35.jar -jar /Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /Users/yyx/Library/Application Support/Code/User/globalStorage/redhat.java/1.36.0/config_ss_mac -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/84fc1d4831a6628f8a7622dc78c865f8/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2024-11-03 22:46:53.258'
+}
+{
+  message: 'Starting Java server with: /Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/jre/17.0.13-macosx-aarch64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/lombok/lombok-1.18.35.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/Users/yyx/Library/Application Support/Code/User/workspaceStorage/84fc1d4831a6628f8a7622dc78c865f8/redhat.java -Daether.dependencyCollector.impl=bf -jar /Users/yyx/.vscode/extensions/redhat.java-1.36.0-darwin-arm64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /Users/yyx/Library/Application Support/Code/User/globalStorage/redhat.java/1.36.0/config_mac -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/84fc1d4831a6628f8a7622dc78c865f8/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2024-11-03 22:46:53.355'
+}
+{
+  message: 'Nov 03, 2024 10:46:55 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-11-03 22:46:55.161'
+}
+{
+  message: 'Nov 03, 2024 10:46:55 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-11-03 22:46:55.164'
+}
+{
+  message: '[Error - 10:46:58 PM] Nov 3, 2024, 10:46:58 PM Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".\n' +
+    'Cannot invoke "java.util.Map.get(Object)" because "configuration" is null\n' +
+    'java.lang.NullPointerException: Cannot invoke "java.util.Map.get(Object)" because "configuration" is null\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.MapFlattener.getValue(MapFlattener.java:126)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.MapFlattener.getString(MapFlattener.java:51)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.MapFlattener.getString(MapFlattener.java:47)\n' +
+    '\tat com.microsoft.gradle.bs.importer.Utils.isBuildServerEnabled(Utils.java:209)\n' +
+    '\tat com.microsoft.java.builder.jdtbuilder.JavaBuilder.build(JavaBuilder.java:177)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)\n' +
+    '\tat org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)\n' +
+    '\tat org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)\n' +
+    '\tat org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)\n',
+  level: 'info',
+  timestamp: '2024-11-03 22:46:58.702'
+}
+{
+  message: '[Error - 10:46:58 PM] Nov 3, 2024, 10:46:58 PM Errors occurred during the build.',
+  level: 'info',
+  timestamp: '2024-11-03 22:46:58.706'
+}
+{
+  message: 'configuration.updateBuildConfiguration set to automatic',
+  level: 'info',
+  timestamp: '2024-11-03 23:10:46.207'
+}

@@ -1,0 +1,4 @@
+ERROR:38:シンボルを見つけられません\n  シンボル\d   メソッド getKeyword()\n  場所\d タイプcom.ican.model.vo.query.FriendQueryの変数 friendQuery
+ERROR:38:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getName()\n    場所\d クラス com.ican.entity.Friend
+ERROR:38:シンボルを見つけられません\n  シンボル\d   メソッド getKeyword()\n  場所\d タイプcom.ican.model.vo.query.FriendQueryの変数 friendQuery
+ERROR:45:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)

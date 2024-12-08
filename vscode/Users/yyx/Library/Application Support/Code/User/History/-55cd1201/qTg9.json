@@ -1,0 +1,18 @@
+{
+  "editor.gotoLocation.alternativeDeclarationCommand": "editor.action.revealDefinition",
+  "editor.gotoLocation.alternativeDefinitionCommand": "editor.action.revealDefinition",
+  "editor.gotoLocation.alternativeTypeDefinitionCommand": "editor.action.revealDefinition",
+  "editor.selectionHighlight": false,
+  "files.autoSave": "afterDelay",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "on"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#4F1F06",
+    "titleBar.activeBackground": "#6F2B09",
+    "titleBar.activeForeground": "#FEF8F5"
+  }
+}

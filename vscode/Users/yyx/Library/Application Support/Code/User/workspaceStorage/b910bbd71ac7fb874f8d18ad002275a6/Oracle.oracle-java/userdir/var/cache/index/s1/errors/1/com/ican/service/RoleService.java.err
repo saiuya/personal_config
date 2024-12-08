@@ -1,0 +1,33 @@
+ERROR:52:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)
+ERROR:58:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Role
+ERROR:59:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getRoleName()\n    場所\d クラス com.ican.entity.Role
+ERROR:59:シンボルを見つけられません\n  シンボル\d   メソッド getRoleName()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:60:シンボルを見つけられません\n  シンボル\d   メソッド getRoleName()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:62:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Role
+ERROR:62:シンボルを見つけられません\n  シンボル\d   メソッド getRoleName()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:62:シンボルを見つけられません\n  シンボル\d   メソッド getRoleDesc()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:62:シンボルを見つけられません\n  シンボル\d   メソッド getIsDisable()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:65:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Roleの変数 newRole
+ERROR:65:シンボルを見つけられません\n  シンボル\d   メソッド getMenuIdList()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:71:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getRoleId()\n    場所\d クラス com.ican.entity.UserRole
+ERROR:85:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:85:シンボルを見つけられません\n  シンボル\d   メソッド getIsDisable()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:87:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Role
+ERROR:87:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getRoleName()\n    場所\d クラス com.ican.entity.Role
+ERROR:87:シンボルを見つけられません\n  シンボル\d   メソッド getRoleName()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:88:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Roleの変数 existRole
+ERROR:88:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:89:シンボルを見つけられません\n  シンボル\d   メソッド getRoleName()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:91:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Role
+ERROR:92:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:93:シンボルを見つけられません\n  シンボル\d   メソッド getRoleName()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:94:シンボルを見つけられません\n  シンボル\d   メソッド getRoleDesc()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:95:シンボルを見つけられません\n  シンボル\d   メソッド getIsDisable()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:99:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Roleの変数 newRole
+ERROR:101:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Roleの変数 newRole
+ERROR:101:シンボルを見つけられません\n  シンボル\d   メソッド getMenuIdList()\n  場所\d タイプcom.ican.model.vo.request.RoleReqの変数 role
+ERROR:103:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Roleの変数 newRole
+ERROR:108:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.RoleStatusReqの変数 roleStatus
+ERROR:110:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Role
+ERROR:111:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.RoleStatusReqの変数 roleStatus
+ERROR:112:シンボルを見つけられません\n  シンボル\d   メソッド getIsDisable()\n  場所\d タイプcom.ican.model.vo.request.RoleStatusReqの変数 roleStatus

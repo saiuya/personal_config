@@ -1,0 +1,28 @@
+{
+  "CangjieSdk.Option": "CJNative",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#291485",
+    "titleBar.activeBackground": "#391CBA",
+    "titleBar.activeForeground": "#FBFBFE"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter":"IDE-Innovation-Lab.Cangjie"
+  // "terminal.integrated.env.osx": {
+  //   "CANGJIE_HOME": "/Users/yyx/仓颉/cangjie",
+  //   "CANGJIE_PATH": "/Users/yyx/仓颉/cangjie/bin:/Users/yyx/仓颉/cangjie/tools/bin:/Users/yyx/仓颉/cangjie/debugger/bin:",
+  //   "CANGJIE_LD_LIBRARY_PATH": "/Users/yyx/仓颉/cangjie/runtime/lib/darwin_aarch64_llvm:/Users/yyx/仓颉/cangjie/tools/lib:",
+  //   "DYLD_LIBRARY_PATH": "${config:terminal.integrated.env.osx.CANGJIE_LD_LIBRARY_PATH}:${env:DYLD_LIBRARY_PATH}",
+  //   "PATH": "${config:terminal.integrated.env.osx.CANGJIE_PATH}:${env:PATH}"
+  // },
+  // "editor.gotoLocation.alternativeDeclarationCommand": "editor.action.revealDefinition",
+  // "editor.gotoLocation.alternativeDefinitionCommand": "editor.action.revealDefinition",
+  // "editor.gotoLocation.alternativeTypeDefinitionCommand": "editor.action.revealDefinition",
+  // "editor.selectionHighlight": false,
+  // // "files.autoSave": "onFocusChange",
+  // "editor.suggest.snippetsPreventQuickSuggestions": false,
+  // "editor.quickSuggestions": {
+  //   "other": "on",
+  //   "comments": "off",
+  //   "strings": "on"
+  // }
+}

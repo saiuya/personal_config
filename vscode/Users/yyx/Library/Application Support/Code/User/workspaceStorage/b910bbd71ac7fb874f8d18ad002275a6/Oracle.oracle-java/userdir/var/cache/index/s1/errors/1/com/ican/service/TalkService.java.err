@@ -1,0 +1,35 @@
+ERROR:63:シンボルを見つけられません\n  シンボル\d   メソッド getStatus()\n  場所\d タイプcom.ican.model.vo.query.TalkQueryの変数 talkQuery
+ERROR:63:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getStatus()\n    場所\d クラス com.ican.entity.Talk
+ERROR:63:シンボルを見つけられません\n  シンボル\d   メソッド getStatus()\n  場所\d タイプcom.ican.model.vo.query.TalkQueryの変数 talkQuery
+ERROR:71:シンボルを見つけられません\n  シンボル\d   メソッド getImages()\n  場所\d タイプcom.ican.model.vo.response.TalkBackRespの変数 item
+ERROR:72:シンボルを見つけられません\n  シンボル\d   メソッド getImages()\n  場所\d タイプcom.ican.model.vo.response.TalkBackRespの変数 item
+ERROR:75:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)
+ERROR:80:シンボルを見つけられません\n  シンボル\d   メソッド setUserId(int)\n  場所\d タイプcom.ican.entity.Talkの変数 newTalk
+ERROR:90:シンボルを見つけられません\n  シンボル\d   メソッド setUserId(int)\n  場所\d タイプcom.ican.entity.Talkの変数 newTalk
+ERROR:97:シンボルを見つけられません\n  シンボル\d   メソッド getImages()\n  場所\d タイプcom.ican.model.vo.response.TalkBackInfoRespの変数 talkBackVO
+ERROR:98:シンボルを見つけられません\n  シンボル\d   メソッド getImages()\n  場所\d タイプcom.ican.model.vo.response.TalkBackInfoRespの変数 talkBackVO
+ERROR:106:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getTalkContent()\n    場所\d クラス com.ican.entity.Talk
+ERROR:107:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getStatus()\n    場所\d クラス com.ican.entity.Talk
+ERROR:107:シンボルを見つけられません\n  シンボル\d   メソッド getStatus()\n  場所\d タイプcom.ican.enums.ArticleStatusEnumの変数 PUBLIC
+ERROR:108:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getIsTop()\n    場所\d クラス com.ican.entity.Talk
+ERROR:109:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Talk
+ERROR:112:シンボルを見つけられません\n  シンボル\d   メソッド getTalkContent()\n  場所\d タイプcom.ican.entity.Talkの変数 item
+ERROR:113:シンボルを見つけられません\n  シンボル\d   メソッド getTalkContent()\n  場所\d タイプcom.ican.entity.Talkの変数 item
+ERROR:114:シンボルを見つけられません\n  シンボル\d   メソッド getTalkContent()\n  場所\d タイプcom.ican.entity.Talkの変数 item
+ERROR:115:不適合な型\d 推論変数Tには、不適合な境界があります\n    等価制約\d java.lang.String\n    下限\d java.lang.Object
+ERROR:121:シンボルを見つけられません\n  シンボル\d   メソッド getStatus()\n  場所\d タイプcom.ican.enums.ArticleStatusEnumの変数 PUBLIC
+ERROR:121:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getStatus()\n    場所\d クラス com.ican.entity.Talk
+ERROR:129:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.model.vo.response.TalkResp
+ERROR:131:シンボルを見つけられません\n  シンボル\d   メソッド getType()\n  場所\d タイプcom.ican.enums.CommentTypeEnumの変数 TALK
+ERROR:133:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.model.vo.response.CommentCountResp
+ERROR:133:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCommentCount()\n    場所\d クラス com.ican.model.vo.response.CommentCountResp
+ERROR:138:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.response.TalkRespの変数 item
+ERROR:139:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.response.TalkRespの変数 item
+ERROR:141:シンボルを見つけられません\n  シンボル\d   メソッド getImages()\n  場所\d タイプcom.ican.model.vo.response.TalkRespの変数 item
+ERROR:142:シンボルを見つけられません\n  シンボル\d   メソッド getImages()\n  場所\d タイプcom.ican.model.vo.response.TalkRespの変数 item
+ERROR:145:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)
+ERROR:156:シンボルを見つけられません\n  シンボル\d   メソッド setLikeCount(java.lang.Integer)\n  場所\d タイプcom.ican.model.vo.response.TalkRespの変数 talkResp
+ERROR:158:シンボルを見つけられません\n  シンボル\d   メソッド getImages()\n  場所\d タイプcom.ican.model.vo.response.TalkRespの変数 talkResp
+ERROR:159:シンボルを見つけられません\n  シンボル\d   メソッド getImages()\n  場所\d タイプcom.ican.model.vo.response.TalkRespの変数 talkResp
+ERROR:166:シンボルを見つけられません\n  シンボル\d   メソッド getPath()\n  場所\d タイプcom.ican.enums.FilePathEnumの変数 TALK
+ERROR:167:シンボルを見つけられません\n  シンボル\d   メソッド getFilePath()\n  場所\d タイプcom.ican.enums.FilePathEnumの変数 TALK

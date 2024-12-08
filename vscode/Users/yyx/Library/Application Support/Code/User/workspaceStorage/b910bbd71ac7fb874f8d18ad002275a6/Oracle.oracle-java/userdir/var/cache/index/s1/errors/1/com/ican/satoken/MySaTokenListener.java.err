@@ -1,0 +1,8 @@
+ERROR:46:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getAvatar()\n    場所\d クラス com.ican.entity.User
+ERROR:46:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getNickname()\n    場所\d クラス com.ican.entity.User
+ERROR:47:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.User
+ERROR:55:シンボルを見つけられません\n  シンボル\d   メソッド getZone()\n  場所\d タイプcom.ican.enums.ZoneEnumの変数 SHANGHAI
+ERROR:56:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.vo.response.OnlineUserResp
+ERROR:59:シンボルを見つけられません\n  シンボル\d   メソッド getAvatar()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:60:シンボルを見つけられません\n  シンボル\d   メソッド getNickname()\n  場所\d タイプcom.ican.entity.Userの変数 user
+ERROR:68:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.User

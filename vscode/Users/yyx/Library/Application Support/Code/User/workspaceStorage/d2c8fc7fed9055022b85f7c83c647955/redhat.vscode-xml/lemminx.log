@@ -1,0 +1,42 @@
+Dec 07, 2024 2:29:00 AM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.28.0
+ - Java : /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+ - VM Version : 21.0.2
+ - Git 9c3a0f1 - [maven-release-plugin] prepare release 0.28.0
+Dec 07, 2024 2:29:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Dec 07, 2024 2:29:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+Dec 07, 2024 2:29:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Dec 07, 2024 2:29:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+Dec 07, 2024 2:37:13 AM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.28.0
+ - Java : /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+ - VM Version : 21.0.2
+ - Git 9c3a0f1 - [maven-release-plugin] prepare release 0.28.0
+Dec 07, 2024 2:37:59 AM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.28.0
+ - Java : /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+ - VM Version : 21.0.2
+ - Git 9c3a0f1 - [maven-release-plugin] prepare release 0.28.0
+Dec 07, 2024 3:28:00 AM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.28.0
+ - Java : /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home
+ - VM Version : 21.0.2
+ - Git 9c3a0f1 - [maven-release-plugin] prepare release 0.28.0
+Dec 07, 2024 3:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+Dec 07, 2024 3:31:36 AM org.eclipse.lemminx.uriresolver.CacheResourcesManager lambda$downloadResource$0
+INFO: Downloading http://mybatis.org/dtd/mybatis-3-mapper.dtd to /Users/yyx/.lemminx/cache/http/mybatis.org/dtd/mybatis-3-mapper.dtd...
+Dec 07, 2024 3:31:36 AM org.eclipse.lemminx.uriresolver.CacheResourcesManager lambda$downloadResource$0
+INFO: Downloaded http://mybatis.org/dtd/mybatis-3-mapper.dtd to /Users/yyx/.lemminx/cache/http/mybatis.org/dtd/mybatis-3-mapper.dtd in 252ms

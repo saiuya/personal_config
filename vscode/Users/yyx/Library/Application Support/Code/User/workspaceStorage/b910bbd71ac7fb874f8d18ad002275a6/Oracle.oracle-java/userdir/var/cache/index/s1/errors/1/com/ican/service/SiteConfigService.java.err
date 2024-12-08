@@ -1,0 +1,2 @@
+ERROR:54:シンボルを見つけられません\n  シンボル\d   メソッド getPath()\n  場所\d タイプcom.ican.enums.FilePathEnumの変数 CONFIG
+ERROR:55:シンボルを見つけられません\n  シンボル\d   メソッド getFilePath()\n  場所\d タイプcom.ican.enums.FilePathEnumの変数 CONFIG

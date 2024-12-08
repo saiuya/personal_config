@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+file:/Users/yyx/Library/Application%20Support/Code/User/workspaceStorage/84fc1d4831a6628f8a7622dc78c865f8/redhat.java/ss_ws/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
+meta_index

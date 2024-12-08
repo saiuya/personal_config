@@ -1,0 +1,364 @@
+!SESSION 2024-10-17 20:02:40.937 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.12
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_JP
+Framework arguments:  --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-87dd1c81603b47b86992ac41647b508a.sock
+Command-line arguments:  -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/6daefec3a9e43dc056cfe3510ee12a0d/redhat.java/ss_ws --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-87dd1c81603b47b86992ac41647b508a.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:42.295
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:42.403
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:42.428
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:42.429
+!MESSAGE Initializing Java Language Server 1.40.0.202409261450
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:43.825
+!MESSAGE Setting /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home as 'JavaSE-1.8' environment (id:net.temurin.8.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:43.828
+!MESSAGE Setting /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home as 'JavaSE-21' environment (id:com.oracle.java.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:43.830
+!MESSAGE Setting /opt/homebrew/Cellar/openjdk/22.0.2/libexec/openjdk.jdk/Contents/Home as 'JavaSE-22' environment (id:1729162963829)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:43.831
+!MESSAGE Setting /Library/Java/JavaVirtualMachines/microsoft-11.jdk/Contents/Home as 'JavaSE-11' environment (id:com.microsoft.11.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:43.832
+!MESSAGE Setting /Users/yyx/.gradle/jdks/eclipse_adoptium-17-aarch64-os_x/jdk-17.0.11+9/Contents/Home as 'JavaSE-17' environment (id:1729162963831)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:43.833
+!MESSAGE Setting java.home /Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:43.839
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:43.847
+!MESSAGE Workspace initialized in 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:43.853
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:43.858
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:43.860
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:43.861
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:02:43.862
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:10.160
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:10.193
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:10.270
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:10.277
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2024-10-17 20:04:35.986 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.12
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_JP
+Framework arguments:  --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-b244efd7ebf805d51cbdd3282d07f581.sock
+Command-line arguments:  -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/6daefec3a9e43dc056cfe3510ee12a0d/redhat.java/ss_ws --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-b244efd7ebf805d51cbdd3282d07f581.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:37.284
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:37.384
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:37.413
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:37.414
+!MESSAGE Initializing Java Language Server 1.40.0.202409261450
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:37.438
+!MESSAGE Workspace initialized in 3ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:37.446
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:37.449
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:37.450
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:37.451
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:37.453
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:49.729
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:49.756
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:49.827
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:04:49.847
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2024-10-17 20:06:13.609 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.12
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_JP
+Framework arguments:  --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-9bb590adbd7209f01756a08cdc9c1915.sock
+Command-line arguments:  -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/6daefec3a9e43dc056cfe3510ee12a0d/redhat.java/ss_ws --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-9bb590adbd7209f01756a08cdc9c1915.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:06:14.736
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:06:14.847
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:06:14.885
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:06:14.887
+!MESSAGE Initializing Java Language Server 1.40.0.202409261450
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:06:14.915
+!MESSAGE Workspace initialized in 3ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:06:14.924
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:06:14.929
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:06:14.930
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:06:14.931
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:06:14.934
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:06:24.871
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:06:24.910
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:06:24.959
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:06:24.966
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2024-10-17 20:09:12.230 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.12
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_JP
+Framework arguments:  --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-c7750e4abb2dd92195526ce5976ec151.sock
+Command-line arguments:  -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/6daefec3a9e43dc056cfe3510ee12a0d/redhat.java/ss_ws --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-c7750e4abb2dd92195526ce5976ec151.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:13.977
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:14.215
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:14.269
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:14.271
+!MESSAGE Initializing Java Language Server 1.40.0.202409261450
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:14.307
+!MESSAGE Workspace initialized in 4ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:14.322
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:14.327
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:14.330
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:14.331
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:14.334
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:26.102
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:26.118
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:26.212
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:26.219
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2024-10-17 20:09:44.538 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.12
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_JP
+Framework arguments:  --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-165ad7407749420c2c7cd4e05431656a.sock
+Command-line arguments:  -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/6daefec3a9e43dc056cfe3510ee12a0d/redhat.java/ss_ws --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-165ad7407749420c2c7cd4e05431656a.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:46.385
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:46.551
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:46.601
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:46.604
+!MESSAGE Initializing Java Language Server 1.40.0.202409261450
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:46.649
+!MESSAGE Workspace initialized in 5ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:46.657
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:46.664
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:46.665
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:46.668
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:46.670
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:58.860
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:58.884
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:58.952
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:09:58.958
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2024-10-17 20:10:46.221 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.12
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_JP
+Framework arguments:  --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-d2ad2ddb1fb5b610e0b7d938206477e9.sock
+Command-line arguments:  -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/6daefec3a9e43dc056cfe3510ee12a0d/redhat.java/ss_ws --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-d2ad2ddb1fb5b610e0b7d938206477e9.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:10:48.394
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:10:48.585
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:10:48.656
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:10:48.662
+!MESSAGE Initializing Java Language Server 1.40.0.202409261450
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:10:48.712
+!MESSAGE Workspace initialized in 5ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:10:48.723
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:10:48.729
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:10:48.730
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:10:48.732
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:10:48.734
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:11:01.222
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:11:01.237
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:11:01.301
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:11:01.306
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2024-10-17 20:16:47.343 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.12
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_JP
+Framework arguments:  --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-6bfbcbc2341d912cbde2cf100a7da917.sock
+Command-line arguments:  -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/6daefec3a9e43dc056cfe3510ee12a0d/redhat.java/ss_ws --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-6bfbcbc2341d912cbde2cf100a7da917.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:16:49.541
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:16:49.783
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:16:49.824
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:16:49.827
+!MESSAGE Initializing Java Language Server 1.40.0.202409261450
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:16:49.885
+!MESSAGE Workspace initialized in 6ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:16:49.903
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:16:49.909
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:16:49.911
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:16:49.914
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:16:49.916
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:17:02.595
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:17:02.643
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:17:02.732
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-10-17 20:17:02.742
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

@@ -1,0 +1,12 @@
+on run {input, parameters}
+	tell application "Terminal"
+		if not (exists window 1) then
+			-- 如果终端没有任何窗口，重新打开一个新窗口
+			do script ""
+		else
+			-- 如果终端已打开，创建一个新的窗口
+			do script ""
+		end if
+		activate -- 确保终端窗口出现在前台
+	end tell
+end run

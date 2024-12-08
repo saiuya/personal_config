@@ -1,0 +1,7 @@
+ERROR:47:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)
+ERROR:56:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.CarouselReqVoの変数 carouselReqVo
+ERROR:67:シンボルを見つけられません\n  シンボル\d   メソッド getPath()\n  場所\d タイプcom.ican.enums.FilePathEnumの変数 CAROUSEL
+ERROR:68:シンボルを見つけられません\n  シンボル\d   メソッド getFilePath()\n  場所\d タイプcom.ican.enums.FilePathEnumの変数 CAROUSEL
+ERROR:73:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Carousel
+ERROR:74:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.CarouselStatusReqの変数 carouselStatusReq
+ERROR:75:シンボルを見つけられません\n  シンボル\d   メソッド getStatus()\n  場所\d タイプcom.ican.model.vo.request.CarouselStatusReqの変数 carouselStatusReq

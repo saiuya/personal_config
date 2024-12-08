@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BlogBackendApplication<blog-backend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "xyz.kuailemao.BlogBackendApplication",
+            "projectName": "blog-backend",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

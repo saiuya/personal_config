@@ -1,0 +1,13 @@
+ERROR:91:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.dto.WebsocketMessageDTO
+ERROR:92:シンボルを見つけられません\n  シンボル\d   メソッド getType()\n  場所\d タイプcom.ican.enums.ChatTypeEnumの変数 HISTORY_RECORD
+ERROR:107:シンボルを見つけられません\n  シンボル\d   メソッド getType()\n  場所\d タイプcom.ican.model.dto.WebsocketMessageDTOの変数 messageDTO
+ERROR:110:シンボルを見つけられません\n  シンボル\d   メソッド getData()\n  場所\d タイプcom.ican.model.dto.WebsocketMessageDTOの変数 messageDTO
+ERROR:112:シンボルを見つけられません\n  シンボル\d   メソッド getContent()\n  場所\d タイプcom.ican.entity.ChatRecordの変数 chatRecord
+ERROR:114:シンボルを見つけられません\n  シンボル\d   メソッド setData(com.ican.entity.ChatRecord)\n  場所\d タイプcom.ican.model.dto.WebsocketMessageDTOの変数 messageDTO
+ERROR:119:シンボルを見つけられません\n  シンボル\d   メソッド getData()\n  場所\d タイプcom.ican.model.dto.WebsocketMessageDTOの変数 messageDTO
+ERROR:127:シンボルを見つけられません\n  シンボル\d   メソッド setData(java.lang.String)\n  場所\d タイプcom.ican.model.dto.WebsocketMessageDTOの変数 messageDTO
+ERROR:174:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.websocket.WebsocketService
+ERROR:184:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.dto.WebsocketMessageDTO
+ERROR:185:シンボルを見つけられません\n  シンボル\d   メソッド getType()\n  場所\d タイプcom.ican.enums.ChatTypeEnumの変数 ONLINE_COUNT
+ERROR:201:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCreateTime()\n    場所\d クラス com.ican.entity.ChatRecord
+ERROR:202:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.dto.ChatRecordDTO

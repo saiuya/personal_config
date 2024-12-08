@@ -1,0 +1,4 @@
+ERROR:35:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Article
+ERROR:35:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getIsDelete()\n    場所\d クラス com.ican.entity.Article
+ERROR:36:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Article
+ERROR:37:シンボルを見つけられません\n  シンボル\d   メソッド getIsDelete()\n  場所\d タイプcom.ican.entity.Articleの変数 article

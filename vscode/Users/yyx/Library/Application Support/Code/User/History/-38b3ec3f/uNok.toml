@@ -1,0 +1,12 @@
+[project]
+authors = ["saiuya <eneisyou@gmail.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "Biological_Information_Processing"
+platforms = ["osx-arm64", "osx-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.13.0,<3.14"

@@ -1,0 +1,14 @@
+ERROR:82:シンボルを見つけられません\n  シンボル\d   メソッド setModule(java.lang.String)\n  場所\d タイプcom.ican.entity.OperationLogの変数 operationLog
+ERROR:84:シンボルを見つけられません\n  シンボル\d   メソッド setType(java.lang.String)\n  場所\d タイプcom.ican.entity.OperationLogの変数 operationLog
+ERROR:86:シンボルを見つけられません\n  シンボル\d   メソッド setUri(java.lang.String)\n  場所\d タイプcom.ican.entity.OperationLogの変数 operationLog
+ERROR:93:シンボルを見つけられません\n  シンボル\d   メソッド setName(java.lang.String)\n  場所\d タイプcom.ican.entity.OperationLogの変数 operationLog
+ERROR:95:シンボルを見つけられません\n  シンボル\d   メソッド setDescription(java.lang.String)\n  場所\d タイプcom.ican.entity.OperationLogの変数 operationLog
+ERROR:98:シンボルを見つけられません\n  シンボル\d   メソッド setParams(java.lang.String)\n  場所\d タイプcom.ican.entity.OperationLogの変数 operationLog
+ERROR:100:シンボルを見つけられません\n  シンボル\d   メソッド setParams(java.lang.String)\n  場所\d タイプcom.ican.entity.OperationLogの変数 operationLog
+ERROR:103:シンボルを見つけられません\n  シンボル\d   メソッド setMethod(java.lang.String)\n  場所\d タイプcom.ican.entity.OperationLogの変数 operationLog
+ERROR:105:シンボルを見つけられません\n  シンボル\d   メソッド setData(java.lang.String)\n  場所\d タイプcom.ican.entity.OperationLogの変数 operationLog
+ERROR:107:シンボルを見つけられません\n  シンボル\d   メソッド setUserId(int)\n  場所\d タイプcom.ican.entity.OperationLogの変数 operationLog
+ERROR:109:シンボルを見つけられません\n  シンボル\d   メソッド setNickname(java.lang.String)\n  場所\d タイプcom.ican.entity.OperationLogの変数 operationLog
+ERROR:112:シンボルを見つけられません\n  シンボル\d   メソッド setIpAddress(java.lang.String)\n  場所\d タイプcom.ican.entity.OperationLogの変数 operationLog
+ERROR:113:シンボルを見つけられません\n  シンボル\d   メソッド setIpSource(java.lang.String)\n  場所\d タイプcom.ican.entity.OperationLogの変数 operationLog
+ERROR:115:シンボルを見つけられません\n  シンボル\d   メソッド setTimes(long)\n  場所\d タイプcom.ican.entity.OperationLogの変数 operationLog

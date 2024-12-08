@@ -1,0 +1,14 @@
+ERROR:43:シンボルを見つけられません\n  シンボル\d   メソッド getCode()\n  場所\d タイプcom.ican.model.vo.request.CodeReqの変数 codeReq
+ERROR:45:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.dto.SocialTokenDTO
+ERROR:46:シンボルを見つけられません\n  シンボル\d   メソッド getAccess_token()\n  場所\d タイプcom.ican.model.dto.TokenDTOの変数 githubToken
+ERROR:47:シンボルを見つけられません\n  シンボル\d   メソッド getLoginType()\n  場所\d タイプcom.ican.enums.LoginTypeEnumの変数 GITHUB
+ERROR:55:シンボルを見つけられません\n  シンボル\d   メソッド getAccessToken()\n  場所\d タイプcom.ican.model.dto.SocialTokenDTOの変数 socialToken
+ERROR:58:シンボルを見つけられません\n  シンボル\d   メソッド getUserInfoUrl()\n  場所\d タイプcom.ican.config.properties.GithubPropertiesの変数 githubProperties
+ERROR:63:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.dto.SocialUserInfoDTO
+ERROR:64:シンボルを見つけられません\n  シンボル\d   メソッド getAvatar_url()\n  場所\d クラス com.ican.model.dto.GitUserInfoDTO
+ERROR:65:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.dto.GitUserInfoDTOの変数 gitUserInfoDTO
+ERROR:66:シンボルを見つけられません\n  シンボル\d   メソッド getLogin()\n  場所\d タイプcom.ican.model.dto.GitUserInfoDTOの変数 gitUserInfoDTO
+ERROR:79:シンボルを見つけられません\n  シンボル\d   メソッド getClientId()\n  場所\d タイプcom.ican.config.properties.GithubPropertiesの変数 githubProperties
+ERROR:80:シンボルを見つけられません\n  シンボル\d   メソッド getClientSecret()\n  場所\d タイプcom.ican.config.properties.GithubPropertiesの変数 githubProperties
+ERROR:81:シンボルを見つけられません\n  シンボル\d   メソッド getRedirectUrl()\n  場所\d タイプcom.ican.config.properties.GithubPropertiesの変数 githubProperties
+ERROR:87:シンボルを見つけられません\n  シンボル\d   メソッド getAccessTokenUrl()\n  場所\d タイプcom.ican.config.properties.GithubPropertiesの変数 githubProperties

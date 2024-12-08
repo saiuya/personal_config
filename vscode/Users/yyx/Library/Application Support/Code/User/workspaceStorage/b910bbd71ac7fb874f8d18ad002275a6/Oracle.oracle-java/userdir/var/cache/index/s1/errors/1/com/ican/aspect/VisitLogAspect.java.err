@@ -1,0 +1,5 @@
+ERROR:59:シンボルを見つけられません\n  シンボル\d   メソッド setIpAddress(java.lang.String)\n  場所\d タイプcom.ican.entity.VisitLogの変数 visitLog
+ERROR:60:シンボルを見つけられません\n  シンボル\d   メソッド setIpSource(java.lang.String)\n  場所\d タイプcom.ican.entity.VisitLogの変数 visitLog
+ERROR:61:シンボルを見つけられません\n  シンボル\d   メソッド setOs(java.lang.String)\n  場所\d タイプcom.ican.entity.VisitLogの変数 visitLog
+ERROR:62:シンボルを見つけられません\n  シンボル\d   メソッド setBrowser(java.lang.String)\n  場所\d タイプcom.ican.entity.VisitLogの変数 visitLog
+ERROR:63:シンボルを見つけられません\n  シンボル\d   メソッド setPage(java.lang.String)\n  場所\d タイプcom.ican.entity.VisitLogの変数 visitLog

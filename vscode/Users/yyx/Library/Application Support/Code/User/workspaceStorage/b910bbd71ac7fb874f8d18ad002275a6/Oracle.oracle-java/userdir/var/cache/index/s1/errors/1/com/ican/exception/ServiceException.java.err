@@ -1,0 +1,1 @@
+ERROR:19:シンボルを見つけられません\n  シンボル\d   メソッド getCode()\n  場所\d タイプcom.ican.enums.StatusCodeEnumの変数 FAIL

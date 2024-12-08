@@ -1,0 +1,1 @@
+WARNING:37:org.springframework.data.redis.serializer.Jackson2JsonRedisSerializerのsetObjectMapper(com.fasterxml.jackson.databind.ObjectMapper)は推奨されておらず、削除用にマークされています

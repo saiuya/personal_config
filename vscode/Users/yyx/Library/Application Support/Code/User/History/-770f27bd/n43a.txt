@@ -1,0 +1,3 @@
+setuptools~=67.6.1
+openai-whisper
+srtranslator~=0.2.2

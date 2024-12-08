@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="build/resources/test" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+			<attribute name="resource" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/test" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/resources/main" path="src/main/resources">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+			<attribute name="resource" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/main" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/test" path="build/generated/sources/annotationProcessor/java/test">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/main" path="build/generated/sources/annotationProcessor/java/main">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/JavaSE-21">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.github.jnr/jffi/1.3.13/15e41e9c8f02b384bf138ab7f2778b441bfa5df3/jffi-1.3.13-native.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.github.jnr/jffi/1.3.13/539945cd5524c472b8f1615a15cda40278ea2f22/jffi-1.3.13-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.github.jnr/jffi/1.3.13/861b79314b8cef27f506c007edb78bf1ad0df77c/jffi-1.3.13.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.github.jnr/jffi/1.3.13/539945cd5524c472b8f1615a15cda40278ea2f22/jffi-1.3.13-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.2/f4d7f0fc9054386f2893b602454d48e07d4fbead/asm-commons-9.2.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.2/acfb5bbdf1cd11aaff127233c641a176e1ebd473/asm-commons-9.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.2/d96c99a30f5e1a19b0e609dbb19a44d8518ac01e/asm-tree-9.2.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.2/d7c4f2660898c227b2fb209f94ca15ae45722535/asm-tree-9.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-a64asm/1.0.0/a1cb8dbe71b5a6a0288043c3ba3ca64545be165/jnr-a64asm-1.0.0.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-a64asm/1.0.0/8ed58640fc22f944f7ca5ebdbd855264c6ce6a4a/jnr-a64asm-1.0.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.2/c4a06a64e650562f30b7bf9aaec1bfed43aca12b/failureaccess-1.0.2.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.2/6acdafcf2dfc3b548e59dd3a4b454552aeb6ff65/failureaccess-1.0.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/3.0.0/7399e65dd7e9ff3404f4535b2f017093bdb134c7/j2objc-annotations-3.0.0.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/3.0.0/e6e870c6faf70867a723848b036607cd7d389621/j2objc-annotations-3.0.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-ffi/2.2.16/1cf42fc29fed25b44710a52e03a45f11d4f823d5/jnr-ffi-2.2.16.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-ffi/2.2.16/da0141308c974e6ff72ebbe0702f1fb5c5bd70cc/jnr-ffi-2.2.16-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/b19b5927c2c25b6c70f093767041e641ae0b1b35/jsr305-3.0.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.2/81a03f76019c67362299c40e0ba13405f5467bff/asm-9.2.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.2/51671fdebd3583f10254fab0e2077ed49c461650/asm-9.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-x86asm/1.0.2/6936bbd6c5b235665d87bd450f5e13b52d4b48/jnr-x86asm-1.0.2.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-x86asm/1.0.2/6bb6efcd010567ad80c8bb2bdd5065b30f0f1468/jnr-x86asm-1.0.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.2/fbc178fc5ba3dab50fd7e8a5317b8b647c8e8946/asm-util-9.2.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.2/f04d12daefcb3cf02ef27e67c1ccbac24d2f5c6f/asm-util-9.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/33.2.1-jre/818e780da2c66c63bbb6480fef1f3855eeafa3e4/guava-33.2.1-jre.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/33.2.1-jre/b49b0b2d97a0eae57d70d6871d150f2940b933c8/guava-33.2.1-jre-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.2/7487dd756daf96cab9986e44b9d7bcb796a61c10/asm-analysis-9.2.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.2/296a49fa21d815fc92eec1007ea2708983e8df2c/asm-analysis-9.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.26.1/c1fde57694bdc14e8618899aaa6e857d9465d7de/error_prone_annotations-2.26.1.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.26.1/b6d2491085a2ca4d152f3937f45009c23d928ef9/error_prone_annotations-2.26.1-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.42.0/638ec33f363a94d41a4f03c3e7d3dcfba64e402d/checker-qual-3.42.0.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.42.0/49cc9a760cebbbcd13be06679a224a1ecc85f884/checker-qual-3.42.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.0.0/b48df2c4aede9586cc931ead433bc02d6fd7879e/kotlin-stdlib-2.0.0.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.0.0/84cdfeb1d3e1b3f72cc4e0a3803c85c4727312f1/kotlin-stdlib-2.0.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.3.0/152ea56b3a72f655d4fd677fc0ef2596c3dd5e6e/opentest4j-1.3.0.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.3.0/afb8ff23cffb021c56f333953aebfe6e8818568e/opentest4j-1.3.0-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.10.3/2e07e6389624f3e93fb2e87aec2fdc30cc84b069/junit-platform-launcher-1.10.3.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.10.3/b2d1e363d6271aee0167da7001a9695819f7b3b6/junit-platform-launcher-1.10.3-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.10.3/a22aa91d1d6c69b2020a9aeb6d095ea81132bfa5/junit-jupiter-api-5.10.3.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.10.3/64c385e8817f225ed6bbf6179856df66dc338815/junit-jupiter-api-5.10.3-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/a231e0d844d2721b0fa1b238006d15c6ded6842a/apiguardian-api-1.1.2.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/e0787a997746ac32639e0bf3cb27af8dce8a3428/apiguardian-api-1.1.2-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-junit5/2.0.0/9d7140c17b978a5e7fd1c2bce8e28d08830952d4/kotlin-test-junit5-2.0.0.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-junit5/2.0.0/e7609990cba72d2a3ce763011ae79e81b9904b51/kotlin-test-junit5-2.0.0-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.10.3/a353d42a2f13343a7cb80c5228ae66ff64495481/junit-platform-commons-1.10.3.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.10.3/64197e8c8e64dd765f41471824c6b8e6b15b41fb/junit-platform-commons-1.10.3-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.10.3/48c14e866bb1a87ca35d24ff068463bb202ada24/junit-jupiter-engine-5.10.3.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.10.3/698d1cf97a3400805f030d8c1e546960641c078c/junit-jupiter-engine-5.10.3-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test/2.0.0/937ef814324f1ed51a25964cea2886598c9c2004/kotlin-test-2.0.0.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test/2.0.0/b2793875afcd0cf0b070db5e1d06ae9fc98bfdd7/kotlin-test-2.0.0-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.10.3/365a320c3cfd47f3346625e541e424e35dc75c42/junit-platform-engine-1.10.3.jar" sourcepath="/Users/yyx/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.10.3/b7c42b99812a1bfaf8047392731503e7c00416d3/junit-platform-engine-1.10.3-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

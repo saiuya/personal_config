@@ -1,0 +1,28 @@
+{
+  "workbench.colorCustomizations": {
+    "[Default Dark Modern]": {
+      "tab.activeBorderTop": "#00FF00",
+      "tab.unfocusedActiveBorderTop": "#00FF0088",
+      "textCodeBlock.background": "#c98be255"
+    },
+    "editor.wordHighlightStrongBorder": "#0676df",
+    "editor.wordHighlightBorder": "#06d09e",
+    "editor.selectionHighlightBorder": "#d5bd07",
+    "editor.selectionBackground": "#940636",
+    "tab.activeBackground": "#8de7959a",
+    "activityBar.background": "#043608",
+    "titleBar.activeBackground": "#054C0B",
+    "titleBar.activeForeground": "#EFFEF0"
+  },
+  "editor.gotoLocation.alternativeDeclarationCommand": "editor.action.revealDefinition",
+  "editor.gotoLocation.alternativeDefinitionCommand": "editor.action.revealDefinition",
+  "editor.gotoLocation.alternativeTypeDefinitionCommand": "editor.action.revealDefinition",
+  "editor.selectionHighlight": false,
+  "files.autoSave": "onFocusChange",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "on"
+  }
+}

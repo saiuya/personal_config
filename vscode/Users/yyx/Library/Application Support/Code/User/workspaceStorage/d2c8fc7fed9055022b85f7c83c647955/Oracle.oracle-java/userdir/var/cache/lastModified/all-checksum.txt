@@ -1,0 +1,14 @@
+platform=1733540540397
+cluster.platform=1733540540397
+cluster.ide=1733540540399
+cluster.extide=1733540540402
+cluster.webcommon=1733540540295
+cluster.java=1733540540451
+cluster.extra=1733540540402
+cluster.nbcode=1733540540400
+user=1733540558111
+crc=112
+locale=en
+branding=nbcode
+java.version=21.0.2
+java.vm.version=21.0.2+13-LTS-58

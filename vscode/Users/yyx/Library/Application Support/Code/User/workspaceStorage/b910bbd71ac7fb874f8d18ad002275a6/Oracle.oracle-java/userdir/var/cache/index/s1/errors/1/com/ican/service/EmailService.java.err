@@ -1,0 +1,8 @@
+ERROR:41:シンボルを見つけられません\n  シンボル\d   メソッド getToEmail()\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:42:シンボルを見つけられません\n  シンボル\d   メソッド getSubject()\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:43:シンボルを見つけられません\n  シンボル\d   メソッド getContent()\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:52:シンボルを見つけられません\n  シンボル\d   メソッド getContentMap()\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:53:シンボルを見つけられません\n  シンボル\d   メソッド getTemplate()\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:55:シンボルを見つけられません\n  シンボル\d   メソッド getToEmail()\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:56:シンボルを見つけられません\n  シンボル\d   メソッド getSubject()\n  場所\d タイプcom.ican.model.dto.MailDTOの変数 mailDTO
+ERROR:60:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.service.EmailService

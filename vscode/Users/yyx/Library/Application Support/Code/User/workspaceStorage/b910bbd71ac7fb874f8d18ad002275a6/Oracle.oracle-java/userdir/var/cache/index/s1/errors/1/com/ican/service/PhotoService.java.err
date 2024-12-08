@@ -1,0 +1,16 @@
+ERROR:53:シンボルを見つけられません\n  シンボル\d   メソッド getAlbumId()\n  場所\d タイプcom.ican.model.vo.query.PhotoQueryの変数 photoQuery
+ERROR:53:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getAlbumId()\n    場所\d クラス com.ican.entity.Photo
+ERROR:53:シンボルを見つけられません\n  シンボル\d   メソッド getAlbumId()\n  場所\d タイプcom.ican.model.vo.query.PhotoQueryの変数 photoQuery
+ERROR:59:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)
+ERROR:68:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getAlbumId()\n    場所\d クラス com.ican.entity.Photo
+ERROR:69:シンボルを見つけられません\n  シンボル\d   メソッド setPhotoCount(java.lang.Long)\n  場所\d タイプcom.ican.model.vo.response.AlbumBackRespの変数 albumBackResp
+ERROR:75:シンボルを見つけられません\n  シンボル\d   メソッド getPhotoUrlList()\n  場所\d タイプcom.ican.model.vo.request.PhotoReqの変数 photo
+ERROR:76:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Photo
+ERROR:77:シンボルを見つけられません\n  シンボル\d   メソッド getAlbumId()\n  場所\d タイプcom.ican.model.vo.request.PhotoReqの変数 photo
+ERROR:95:シンボルを見つけられません\n  シンボル\d   メソッド getPhotoIdList()\n  場所\d タイプcom.ican.model.vo.request.PhotoReqの変数 photo
+ERROR:96:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Photo
+ERROR:98:シンボルを見つけられません\n  シンボル\d   メソッド getAlbumId()\n  場所\d タイプcom.ican.model.vo.request.PhotoReqの変数 photo
+ERROR:107:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getAlbumName()\n    場所\d クラス com.ican.entity.Album
+ERROR:107:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Album
+ERROR:117:シンボルを見つけられません\n  シンボル\d   メソッド getPath()\n  場所\d タイプcom.ican.enums.FilePathEnumの変数 PHOTO
+ERROR:118:シンボルを見つけられません\n  シンボル\d   メソッド getFilePath()\n  場所\d タイプcom.ican.enums.FilePathEnumの変数 PHOTO

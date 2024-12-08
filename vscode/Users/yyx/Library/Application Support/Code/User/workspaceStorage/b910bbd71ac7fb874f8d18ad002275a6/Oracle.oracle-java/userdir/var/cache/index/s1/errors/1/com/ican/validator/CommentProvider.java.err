@@ -1,0 +1,8 @@
+ERROR:27:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 commentReq
+ERROR:27:シンボルを見つけられません\n  シンボル\d   メソッド getType()\n  場所\d タイプcom.ican.enums.CommentTypeEnumの変数 ARTICLE
+ERROR:27:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 commentReq
+ERROR:27:シンボルを見つけられません\n  シンボル\d   メソッド getType()\n  場所\d タイプcom.ican.enums.CommentTypeEnumの変数 TALK
+ERROR:30:シンボルを見つけられません\n  シンボル\d   メソッド getCommentType()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 commentReq
+ERROR:30:シンボルを見つけられません\n  シンボル\d   メソッド getType()\n  場所\d タイプcom.ican.enums.CommentTypeEnumの変数 LINK
+ERROR:33:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 commentReq
+ERROR:36:シンボルを見つけられません\n  シンボル\d   メソッド getParentId()\n  場所\d タイプcom.ican.model.vo.request.CommentReqの変数 commentReq

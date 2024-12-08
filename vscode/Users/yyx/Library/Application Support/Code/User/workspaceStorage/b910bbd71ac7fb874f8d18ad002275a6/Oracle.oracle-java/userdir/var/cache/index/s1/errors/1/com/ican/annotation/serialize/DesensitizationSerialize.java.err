@@ -1,0 +1,1 @@
+ERROR:113:クラス com.ican.annotation.serialize.DesensitizationSerializeのコンストラクタ DesensitizationSerializeは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    com.ican.enums.DesensitizationTypeEnum,int,int\n  理由\d 実引数リストと仮引数リストの長さが異なります

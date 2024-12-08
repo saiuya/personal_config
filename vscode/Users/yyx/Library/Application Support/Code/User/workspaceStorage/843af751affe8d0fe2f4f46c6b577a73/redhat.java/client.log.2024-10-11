@@ -1,0 +1,88 @@
+{
+  message: 'Removing old folder in globalStorage : 1.32.0',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:20.324'
+}
+{
+  message: "Use the JDK from '' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2024-10-11 21:13:20.754'
+}
+{
+  message: 'Starting Java server with: /Users/yyx/.vscode/extensions/redhat.java-1.35.1-darwin-arm64/jre/17.0.12-macosx-aarch64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/Users/yyx/.vscode/extensions/redhat.java-1.35.1-darwin-arm64/lombok/lombok-1.18.33.jar -jar /Users/yyx/.vscode/extensions/redhat.java-1.35.1-darwin-arm64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /Users/yyx/Library/Application Support/Code/User/globalStorage/redhat.java/1.35.1/config_ss_mac -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/843af751affe8d0fe2f4f46c6b577a73/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:20.768'
+}
+{
+  message: 'Removing workspace storage folder : /Users/yyx/Library/Application Support/Code/User/workspaceStorage/2b02c2792af2b9e1ea83571f99a63a39/redhat.java',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:20.843'
+}
+{
+  message: 'Removing workspace storage folder : /Users/yyx/Library/Application Support/Code/User/workspaceStorage/2b2d1ae3b2703d543e09e57b03aaec1c/redhat.java',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:20.850'
+}
+{
+  message: 'Removing workspace storage folder : /Users/yyx/Library/Application Support/Code/User/workspaceStorage/490c48586a808efbc0e0fbafc7233e8b/redhat.java',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:20.954'
+}
+{
+  message: 'Removing workspace storage folder : /Users/yyx/Library/Application Support/Code/User/workspaceStorage/7437c526a96e9651412f54391fdfb12b/redhat.java',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:21.049'
+}
+{
+  message: 'Removing workspace storage folder : /Users/yyx/Library/Application Support/Code/User/workspaceStorage/c12da73883654fe7f1da36d07e0ac145/redhat.java',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:21.089'
+}
+{
+  message: 'Removing workspace storage folder : /Users/yyx/Library/Application Support/Code/User/workspaceStorage/c6ea77bfcfae81dda6838c2932bac1f5/redhat.java',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:21.124'
+}
+{
+  message: 'Removing workspace storage folder : /Users/yyx/Library/Application Support/Code/User/workspaceStorage/d7b958d7b518b21ee689ba65d936f1bc/redhat.java',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:21.158'
+}
+{
+  message: 'Removing workspace storage folder : /Users/yyx/Library/Application Support/Code/User/workspaceStorage/fec4a172319f59d7792ad72560c56ffa/redhat.java',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:21.194'
+}
+{
+  message: 'Removing workspace storage folder : /Users/yyx/Library/Application Support/Code/User/workspaceStorage/fef91497c17346227b52abedb9c042a1/redhat.java',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:21.356'
+}
+{
+  message: 'Starting Java server with: /Users/yyx/.vscode/extensions/redhat.java-1.35.1-darwin-arm64/jre/17.0.12-macosx-aarch64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/Users/yyx/.vscode/extensions/redhat.java-1.35.1-darwin-arm64/lombok/lombok-1.18.33.jar -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/Users/yyx/Library/Application Support/Code/User/workspaceStorage/843af751affe8d0fe2f4f46c6b577a73/redhat.java -Daether.dependencyCollector.impl=bf -jar /Users/yyx/.vscode/extensions/redhat.java-1.35.1-darwin-arm64/server/plugins/org.eclipse.equinox.launcher_1.6.900.v20240613-2009.jar -configuration /Users/yyx/Library/Application Support/Code/User/globalStorage/redhat.java/1.35.1/config_mac -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/843af751affe8d0fe2f4f46c6b577a73/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:21.430'
+}
+{
+  message: 'Oct 11, 2024 9:13:22 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:23.018'
+}
+{
+  message: 'Oct 11, 2024 9:13:23 PM org.apache.aries.spifly.BaseActivator log\n' +
+    'INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic\n',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:23.022'
+}
+{
+  message: 'Oct 11, 2024 9:13:28 PM com.microsoft.java.debug.plugin.internal.JavaDebuggerServerPlugin start\n' +
+    'INFO: Starting com.microsoft.java.debug.plugin\n',
+  level: 'info',
+  timestamp: '2024-10-11 21:13:28.985'
+}
+{
+  message: "Failed to provide hover command Error: The request (id: 342, method: 'java/findLinks') has been cancelled",
+  level: 'error',
+  timestamp: '2024-10-11 21:35:02.382'
+}

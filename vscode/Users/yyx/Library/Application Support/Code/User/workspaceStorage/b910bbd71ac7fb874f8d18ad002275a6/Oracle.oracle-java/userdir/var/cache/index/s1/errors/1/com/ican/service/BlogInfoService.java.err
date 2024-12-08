@@ -1,0 +1,15 @@
+ERROR:88:シンボルを見つけられません\n  シンボル\d   メソッド getStatus()\n  場所\d タイプcom.ican.enums.ArticleStatusEnumの変数 PUBLIC
+ERROR:88:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getStatus()\n    場所\d クラス com.ican.entity.Article
+ERROR:88:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getIsDelete()\n    場所\d クラス com.ican.entity.Article
+ERROR:98:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.vo.response.BlogInfoResp
+ERROR:116:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getIsDelete()\n    場所\d クラス com.ican.entity.Article
+ERROR:129:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.vo.response.BlogBackInfoResp
+ERROR:142:シンボルを見つけられません\n  シンボル\d   メソッド setArticleRankVOList(java.util.List<com.ican.model.vo.response.ArticleRankResp>)\n  場所\d タイプcom.ican.model.vo.response.BlogBackInfoRespの変数 blogBackInfoResp
+ERROR:149:シンボルを見つけられません\n  シンボル\d   メソッド getAboutMe()\n  場所\d タイプcom.ican.entity.SiteConfigの変数 siteConfig
+ERROR:164:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Article
+ERROR:164:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getArticleTitle()\n    場所\d クラス com.ican.entity.Article
+ERROR:165:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Article
+ERROR:167:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.model.vo.response.ArticleRankResp
+ERROR:168:シンボルを見つけられません\n  シンボル\d   メソッド getArticleTitle()\n  場所\d タイプcom.ican.entity.Articleの変数 article
+ERROR:169:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Articleの変数 article
+ERROR:171:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getViewCount()\n    場所\d クラス com.ican.model.vo.response.ArticleRankResp

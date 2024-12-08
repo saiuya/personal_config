@@ -1,0 +1,6 @@
+ERROR:18:列挙 com.ican.enums.SearchModeEnumのコンストラクタ SearchModeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    java.lang.String,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:23:列挙 com.ican.enums.SearchModeEnumのコンストラクタ SearchModeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    java.lang.String,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:43:シンボルを見つけられません\n  シンボル\d   メソッド getMode()\n  場所\d タイプcom.ican.enums.SearchModeEnumの変数 value
+ERROR:44:列挙 com.ican.enums.SearchModeEnumのメソッド getStrategyは指定された型に適用できません。\n  期待値\d java.lang.String\n  検出値\d    引数がありません\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:28:変数modeは、デフォルト・コンストラクタで初期化されていません
+ERROR:33:変数strategyは、デフォルト・コンストラクタで初期化されていません

@@ -1,0 +1,7 @@
+ERROR:69:シンボルを見つけられません\n  シンボル\d   メソッド getTaskName()\n  場所\d タイプcom.ican.entity.Taskの変数 task
+ERROR:70:シンボルを見つけられません\n  シンボル\d   メソッド getTaskGroup()\n  場所\d タイプcom.ican.entity.Taskの変数 task
+ERROR:71:シンボルを見つけられません\n  シンボル\d   メソッド getInvokeTarget()\n  場所\d タイプcom.ican.entity.Taskの変数 task
+ERROR:73:シンボルを見つけられません\n  シンボル\d   メソッド getTaskName()\n  場所\d タイプcom.ican.entity.TaskLogの変数 taskLog
+ERROR:75:シンボルを見つけられません\n  シンボル\d   メソッド setStatus(java.lang.Integer)\n  場所\d タイプcom.ican.entity.TaskLogの変数 taskLog
+ERROR:77:シンボルを見つけられません\n  シンボル\d   メソッド setErrorInfo(java.lang.String)\n  場所\d タイプcom.ican.entity.TaskLogの変数 taskLog
+ERROR:79:シンボルを見つけられません\n  シンボル\d   メソッド setStatus(java.lang.Integer)\n  場所\d タイプcom.ican.entity.TaskLogの変数 taskLog

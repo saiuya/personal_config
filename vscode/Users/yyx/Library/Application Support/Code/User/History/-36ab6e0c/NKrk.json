@@ -1,0 +1,31 @@
+{
+  "pages": [
+        {
+          "path": "pages/home/home",
+          "type": "page"
+        },
+    {
+      "path": "pages/cart/cart",
+      "type": "page"
+    },
+    {
+      "path": "pages/category/category",
+      "type": "page"
+    },
+    {
+      "path": "pages/my/my",
+      "type": "page"
+    }
+  ],
+  "globalStyle": {
+    "backgroundColor": "@bgColor",
+    "backgroundColorBottom": "@bgColorBottom",
+    "backgroundColorTop": "@bgColorTop",
+    "backgroundTextStyle": "@bgTxtStyle",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTextStyle": "@navTxtStyle",
+    "navigationBarTitleText": "Uni Creator",
+    "navigationStyle": "custom"
+  },
+  "subPackages": []
+}

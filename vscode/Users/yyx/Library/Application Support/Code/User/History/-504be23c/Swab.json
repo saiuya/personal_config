@@ -1,0 +1,32 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.json",
+  "compilerOptions": {
+    "sourceMap": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "lib": ["esnext", "dom"],
+    "types": [
+      "@dcloudio/types",
+      "@types/wechat-miniprogram",
+      "@uni-helper/uni-app-types",
+    ],
+  },
+  "vueCompilerOptions": {
+    // 原配置 `experimentalRuntimeMode` 现调整为 `nativeTags`
+    "nativeTags": [
+      "block",
+      "component",
+      "template",
+      "slot"
+    ], // [!code ++]
+    "experimentalRuntimeMode": "runtime-uni-app" // [!code --]
+————————————————
+
+                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
+                        
+原文链接：https: //blog.csdn.net/wonderfulgood/article/details/133087848
+  },
+  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"]
+}

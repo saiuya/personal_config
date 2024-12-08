@@ -1,0 +1,58 @@
+ERROR:88:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.response.ArticleBackRespの変数 item
+ERROR:89:シンボルを見つけられません\n  シンボル\d   メソッド setViewCount(int)\n  場所\d タイプcom.ican.model.vo.response.ArticleBackRespの変数 item
+ERROR:90:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.response.ArticleBackRespの変数 item
+ERROR:91:シンボルを見つけられません\n  シンボル\d   メソッド setLikeCount(java.lang.Integer)\n  場所\d タイプcom.ican.model.vo.response.ArticleBackRespの変数 item
+ERROR:93:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)
+ERROR:102:シンボルを見つけられません\n  シンボル\d   メソッド getArticleCover()\n  場所\d タイプcom.ican.entity.Articleの変数 newArticle
+ERROR:104:シンボルを見つけられません\n  シンボル\d   メソッド getArticleCover()\n  場所\d タイプcom.ican.entity.SiteConfigの変数 siteConfig
+ERROR:106:シンボルを見つけられません\n  シンボル\d   メソッド setCategoryId(java.lang.Integer)\n  場所\d タイプcom.ican.entity.Articleの変数 newArticle
+ERROR:107:シンボルを見つけられません\n  シンボル\d   メソッド setUserId(int)\n  場所\d タイプcom.ican.entity.Articleの変数 newArticle
+ERROR:110:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Articleの変数 newArticle
+ERROR:117:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getArticleId()\n    場所\d クラス com.ican.entity.ArticleTag
+ERROR:124:シンボルを見つけられません\n  シンボル\d   メソッド getIdList()\n  場所\d タイプcom.ican.model.vo.request.DeleteReqの変数 delete
+ERROR:126:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Article
+ERROR:128:シンボルを見つけられません\n  シンボル\d   メソッド getIsDelete()\n  場所\d タイプcom.ican.model.vo.request.DeleteReqの変数 delete
+ERROR:142:シンボルを見つけられません\n  シンボル\d   メソッド setCategoryId(java.lang.Integer)\n  場所\d タイプcom.ican.entity.Articleの変数 newArticle
+ERROR:143:シンボルを見つけられません\n  シンボル\d   メソッド setUserId(int)\n  場所\d タイプcom.ican.entity.Articleの変数 newArticle
+ERROR:146:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Articleの変数 newArticle
+ERROR:155:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCategoryName()\n    場所\d クラス com.ican.entity.Category
+ERROR:156:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Category
+ERROR:156:シンボルを見つけられません\n  シンボル\d   メソッド getCategoryId()\n  場所\d タイプcom.ican.model.vo.response.ArticleInfoRespの変数 articleInfoVO
+ERROR:159:シンボルを見つけられません\n  シンボル\d   メソッド getCategoryName()\n  場所\d タイプcom.ican.entity.Categoryの変数 category
+ERROR:160:シンボルを見つけられません\n  シンボル\d   メソッド setTagNameList(java.util.List<java.lang.String>)\n  場所\d タイプcom.ican.model.vo.response.ArticleInfoRespの変数 articleInfoVO
+ERROR:166:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Article
+ERROR:167:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.TopReqの変数 top
+ERROR:168:シンボルを見つけられません\n  シンボル\d   メソッド getIsTop()\n  場所\d タイプcom.ican.model.vo.request.TopReqの変数 top
+ERROR:175:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Article
+ERROR:176:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.model.vo.request.RecommendReqの変数 recommend
+ERROR:177:シンボルを見つけられません\n  シンボル\d   メソッド getIsRecommend()\n  場所\d タイプcom.ican.model.vo.request.RecommendReqの変数 recommend
+ERROR:189:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getIsDelete()\n    場所\d クラス com.ican.entity.Article
+ERROR:190:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getStatus()\n    場所\d クラス com.ican.entity.Article
+ERROR:190:シンボルを見つけられません\n  シンボル\d   メソッド getStatus()\n  場所\d タイプcom.ican.enums.ArticleStatusEnumの変数 PUBLIC
+ERROR:196:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)
+ERROR:211:シンボルを見つけられません\n  シンボル\d   メソッド setLastArticle(com.ican.model.vo.response.ArticlePaginationResp)\n  場所\d タイプcom.ican.model.vo.response.ArticleRespの変数 article
+ERROR:212:シンボルを見つけられません\n  シンボル\d   メソッド setNextArticle(com.ican.model.vo.response.ArticlePaginationResp)\n  場所\d タイプcom.ican.model.vo.response.ArticleRespの変数 article
+ERROR:216:シンボルを見つけられません\n  シンボル\d   メソッド setViewCount(int)\n  場所\d タイプcom.ican.model.vo.response.ArticleRespの変数 article
+ERROR:219:シンボルを見つけられません\n  シンボル\d   メソッド setLikeCount(java.lang.Integer)\n  場所\d タイプcom.ican.model.vo.response.ArticleRespの変数 article
+ERROR:226:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getIsDelete()\n    場所\d クラス com.ican.entity.Article
+ERROR:227:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getStatus()\n    場所\d クラス com.ican.entity.Article
+ERROR:227:シンボルを見つけられません\n  シンボル\d   メソッド getStatus()\n  場所\d タイプcom.ican.enums.ArticleStatusEnumの変数 PUBLIC
+ERROR:232:com.ican.model.vo.PageResult<>の型引数を推論できません\n  理由\d 型変数Tを推論できません\n    (実引数リストと仮引数リストの長さが異なります)
+ERROR:241:シンボルを見つけられません\n  シンボル\d   メソッド getPath()\n  場所\d タイプcom.ican.enums.FilePathEnumの変数 ARTICLE
+ERROR:242:シンボルを見つけられません\n  シンボル\d   メソッド getFilePath()\n  場所\d タイプcom.ican.enums.FilePathEnumの変数 ARTICLE
+ERROR:255:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Category
+ERROR:256:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getCategoryName()\n    場所\d クラス com.ican.entity.Category
+ERROR:256:シンボルを見つけられません\n  シンボル\d   メソッド getCategoryName()\n  場所\d タイプcom.ican.model.vo.request.ArticleReqの変数 article
+ERROR:259:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Category
+ERROR:260:シンボルを見つけられません\n  シンボル\d   メソッド getCategoryName()\n  場所\d タイプcom.ican.model.vo.request.ArticleReqの変数 article
+ERROR:265:シンボルを見つけられません\n  シンボル\d   メソッド getId()\n  場所\d タイプcom.ican.entity.Categoryの変数 category
+ERROR:277:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getArticleId()\n    場所\d クラス com.ican.entity.ArticleTag
+ERROR:279:シンボルを見つけられません\n  シンボル\d   メソッド getTagNameList()\n  場所\d タイプcom.ican.model.vo.request.ArticleReqの変数 article
+ERROR:285:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Tag
+ERROR:285:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getTagName()\n    場所\d クラス com.ican.entity.Tag
+ERROR:286:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getTagName()\n    場所\d クラス com.ican.entity.Tag
+ERROR:288:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getTagName()\n    場所\d クラス com.ican.entity.Tag
+ERROR:291:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Tag
+ERROR:299:シンボルを見つけられません\n  シンボル\d   メソッド builder()\n  場所\d クラス com.ican.entity.Tag
+ERROR:302:不適合な型\d 推論変数Tには、不適合な境界があります\n    等価制約\d com.ican.entity.Tag\n    下限\d java.lang.Object
+ERROR:307:メソッド参照が無効です\n  シンボルを見つけられません\n    シンボル\d   メソッド getId()\n    場所\d クラス com.ican.entity.Tag

@@ -1,0 +1,11 @@
+ERROR:34:シンボルを見つけられません\n  シンボル\d   メソッド getBucketName()\n  場所\d タイプcom.ican.config.properties.CosPropertiesの変数 cosProperties
+ERROR:45:シンボルを見つけられません\n  シンボル\d   メソッド getBucketName()\n  場所\d タイプcom.ican.config.properties.CosPropertiesの変数 cosProperties
+ERROR:47:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.strategy.impl.CosUploadStrategyImpl
+ERROR:48:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.strategy.impl.CosUploadStrategyImpl
+ERROR:49:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.strategy.impl.CosUploadStrategyImpl
+ERROR:51:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.strategy.impl.CosUploadStrategyImpl
+ERROR:53:シンボルを見つけられません\n  シンボル\d   変数 log\n  場所\d クラス com.ican.strategy.impl.CosUploadStrategyImpl
+ERROR:61:シンボルを見つけられません\n  シンボル\d   メソッド getUrl()\n  場所\d タイプcom.ican.config.properties.CosPropertiesの変数 cosProperties
+ERROR:71:シンボルを見つけられません\n  シンボル\d   メソッド getSecretId()\n  場所\d タイプcom.ican.config.properties.CosPropertiesの変数 cosProperties
+ERROR:71:シンボルを見つけられません\n  シンボル\d   メソッド getSecretKey()\n  場所\d タイプcom.ican.config.properties.CosPropertiesの変数 cosProperties
+ERROR:73:シンボルを見つけられません\n  シンボル\d   メソッド getRegion()\n  場所\d タイプcom.ican.config.properties.CosPropertiesの変数 cosProperties

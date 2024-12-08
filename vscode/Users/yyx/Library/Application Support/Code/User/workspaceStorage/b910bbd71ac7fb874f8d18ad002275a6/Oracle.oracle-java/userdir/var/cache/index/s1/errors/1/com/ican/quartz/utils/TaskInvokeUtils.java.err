@@ -1,0 +1,1 @@
+ERROR:25:シンボルを見つけられません\n  シンボル\d   メソッド getInvokeTarget()\n  場所\d タイプcom.ican.entity.Taskの変数 task

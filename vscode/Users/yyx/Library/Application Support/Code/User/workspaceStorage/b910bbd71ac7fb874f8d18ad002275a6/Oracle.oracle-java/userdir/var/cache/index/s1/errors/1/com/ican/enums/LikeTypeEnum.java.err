@@ -1,0 +1,5 @@
+ERROR:18:列挙 com.ican.enums.LikeTypeEnumのコンストラクタ LikeTypeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    java.lang.String,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:23:列挙 com.ican.enums.LikeTypeEnumのコンストラクタ LikeTypeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    java.lang.String,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:28:列挙 com.ican.enums.LikeTypeEnumのコンストラクタ LikeTypeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    java.lang.String,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:33:変数likeTypeは、デフォルト・コンストラクタで初期化されていません
+ERROR:38:変数strategyは、デフォルト・コンストラクタで初期化されていません

@@ -1,0 +1,132 @@
+!SESSION 2024-11-07 18:12:47.612 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.13
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_JP
+Framework arguments:  --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-f79f971e059736293cb9cd28f9676df9.sock
+Command-line arguments:  -data /Users/yyx/Library/Application Support/Code/User/workspaceStorage/37e4ec71a7b49001159d6c9b3379ce8d/redhat.java/ss_ws --pipe=/private/var/folders/9v/l4pyh_hn2qx5lzl5874mr4kh0000gn/T/lsp-f79f971e059736293cb9cd28f9676df9.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:51.933
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:52.411
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:52.480
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:52.483
+!MESSAGE Initializing Java Language Server 1.41.0.202410310221
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:58.576
+!MESSAGE Setting /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home as 'JavaSE-1.8' environment (id:net.temurin.8.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:58.583
+!MESSAGE Setting /opt/homebrew/Cellar/openjdk@21/21.0.5/libexec/openjdk.jdk/Contents/Home as 'JavaSE-21' environment (id:1730970778580)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:58.587
+!MESSAGE Setting runtime JavaSE-23-/opt/homebrew/Cellar/openjdk/23/libexec/openjdk.jdk/Contents/Home as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:58.590
+!MESSAGE Setting /opt/homebrew/Cellar/openjdk/23/libexec/openjdk.jdk/Contents/Home as 'JavaSE-23' environment (id:1730970778585)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:58.596
+!MESSAGE Setting /Library/Java/JavaVirtualMachines/microsoft-11.jdk/Contents/Home as 'JavaSE-11' environment (id:com.microsoft.11.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:58.597
+!MESSAGE Setting /Users/yyx/Library/Java/JavaVirtualMachines/jbr-17.0.12/Contents/Home as 'JavaSE-17' environment (id:com.jetbrains.jbr.jdk)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:58.597
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:58.623
+!MESSAGE Workspace initialized in 7ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:58.648
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:58.662
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:58.664
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:58.668
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:12:58.670
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:13:47.381
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:13:47.460
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:13:47.996
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:13:48.278
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-11-07 18:13:48.786
+!MESSAGE Failed to read package name from file:///Users/yyx/Downloads/KotlinSwift/.gradle/8.9/dependencies-accessors/f54ddec1303f323247cdf95c87485ee1ef36e07b-010e7b3d-0016-4728-8d10-b119b916d374/sources/org/gradle/accessors/dm/LibrariesForLibs.java
+!STACK 0
+java.nio.file.NoSuchFileException: /Users/yyx/Downloads/KotlinSwift/.gradle/8.9/dependencies-accessors/f54ddec1303f323247cdf95c87485ee1ef36e07b-010e7b3d-0016-4728-8d10-b119b916d374/sources/org/gradle/accessors/dm/LibrariesForLibs.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(Unknown Source)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(Unknown Source)
+	at java.base/java.nio.file.Files.newByteChannel(Unknown Source)
+	at java.base/java.nio.file.Files.newByteChannel(Unknown Source)
+	at java.base/java.nio.file.Files.readAllBytes(Unknown Source)
+	at java.base/java.nio.file.Files.readString(Unknown Source)
+	at java.base/java.nio.file.Files.readString(Unknown Source)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.getPackageName(JDTUtils.java:336)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.getFakeCompilationUnit(JDTUtils.java:300)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:201)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:181)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.handleFileEvent(WorkspaceEventsHandler.java:116)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.lambda$0(WorkspaceEventsHandler.java:65)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-11-07 18:13:48.872
+!MESSAGE Failed to create linked resource from file:///Users/yyx/Downloads/KotlinSwift/.gradle/8.9/dependencies-accessors/f54ddec1303f323247cdf95c87485ee1ef36e07b-010e7b3d-0016-4728-8d10-b119b916d374/sources/org/gradle/accessors/dm/LibrariesForLibs.java to jdt.ls-java-project
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/jdt.ls-java-project/src/LibrariesForLibs.java)[269]: java.lang.Exception: Cannot create linked resource.  Local location '/Users/yyx/Downloads/KotlinSwift/.gradle/8.9/dependencies-accessors/f54ddec1303f323247cdf95c87485ee1ef36e07b-010e7b3d-0016-4728-8d10-b119b916d374/sources/org/gradle/accessors/dm/LibrariesForLibs.java' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.assertLinkRequirements(Resource.java:218)
+	at org.eclipse.core.internal.resources.Resource.createLink(Resource.java:671)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.getFakeCompilationUnit(JDTUtils.java:309)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:201)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:181)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.handleFileEvent(WorkspaceEventsHandler.java:116)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.lambda$0(WorkspaceEventsHandler.java:65)
+	at java.base/java.lang.Thread.run(Unknown Source)
+!SUBENTRY 1 org.eclipse.core.resources 4 269 2024-11-07 18:13:48.874
+!MESSAGE Cannot create linked resource.  Local location '/Users/yyx/Downloads/KotlinSwift/.gradle/8.9/dependencies-accessors/f54ddec1303f323247cdf95c87485ee1ef36e07b-010e7b3d-0016-4728-8d10-b119b916d374/sources/org/gradle/accessors/dm/LibrariesForLibs.java' does not exist.
+!STACK 0
+java.lang.Exception: Cannot create linked resource.  Local location '/Users/yyx/Downloads/KotlinSwift/.gradle/8.9/dependencies-accessors/f54ddec1303f323247cdf95c87485ee1ef36e07b-010e7b3d-0016-4728-8d10-b119b916d374/sources/org/gradle/accessors/dm/LibrariesForLibs.java' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.assertLinkRequirements(Resource.java:218)
+	at org.eclipse.core.internal.resources.Resource.createLink(Resource.java:671)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.getFakeCompilationUnit(JDTUtils.java:309)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:201)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:181)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.handleFileEvent(WorkspaceEventsHandler.java:116)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceEventsHandler.lambda$0(WorkspaceEventsHandler.java:65)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:15:01.008
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:15:01.059
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:15:01.142
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-11-07 18:15:01.156
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

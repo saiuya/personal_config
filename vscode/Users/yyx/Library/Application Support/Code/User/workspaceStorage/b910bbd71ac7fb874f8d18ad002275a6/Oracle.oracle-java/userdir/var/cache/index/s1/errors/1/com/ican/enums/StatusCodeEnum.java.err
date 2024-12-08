@@ -1,0 +1,7 @@
+ERROR:18:列挙 com.ican.enums.StatusCodeEnumのコンストラクタ StatusCodeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    int,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:23:列挙 com.ican.enums.StatusCodeEnumのコンストラクタ StatusCodeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    int,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:28:列挙 com.ican.enums.StatusCodeEnumのコンストラクタ StatusCodeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    int,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:33:列挙 com.ican.enums.StatusCodeEnumのコンストラクタ StatusCodeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    int,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:38:列挙 com.ican.enums.StatusCodeEnumのコンストラクタ StatusCodeEnumは指定された型に適用できません。\n  期待値\d 引数がありません\n  検出値\d    int,java.lang.String\n  理由\d 実引数リストと仮引数リストの長さが異なります
+ERROR:43:変数codeは、デフォルト・コンストラクタで初期化されていません
+ERROR:48:変数msgは、デフォルト・コンストラクタで初期化されていません
