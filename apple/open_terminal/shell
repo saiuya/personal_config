@@ -1,0 +1,6 @@
+# 打开通过快捷键`Command+Q`关闭Finder的功能
+defaults write com.apple.finder QuitMenuItem -bool true
+killall Finder
+
+# 关闭通过快捷键`Command+Q`关闭Finder的功能
+defaults write com.apple.finder QuitMenuItem -bool false
